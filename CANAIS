@@ -123,3 +123,24 @@ https://abc.embedmax.site/tcfun/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Canais",Telecine Cult
 https://abc.embedmax.site/tccult/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",HBO
+https://abc.embedmax.site/hbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",HBO 2
+https://abc.embedmax.site/hbo2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",HBO Plus
+https://abc.embedmax.site/hboplus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",HBO Family
+https://abc.embedmax.site/hbofamily/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",HBO Signature
+https://abc.embedmax.site/hbosignature/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",HBO Xtreme
+https://abc.embedmax.site/hboxtreme/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Discovery Channel
+https://abc.embedmax.site/discoverychannel/tracks-v1a1/mono.m3u8
