@@ -102,3 +102,24 @@ https://abc.embedmax.site/cazetv2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Canais",CazéTV 03
 https://abc.embedmax.site/cazetv3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Band Sports
+https://abc.embedmax.site/bandsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Telecine Premium
+https://abc.embedmax.site/tcpremium/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Telecine Pipoca
+https://abc.embedmax.site/tcpipoca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Telecine Action
+https://abc.embedmax.site/tcaction/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Telecine Touch
+https://abc.embedmax.site/tctouch/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Telecine Fun
+https://abc.embedmax.site/tcfun/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Telecine Cult
+https://abc.embedmax.site/tccult/tracks-v1a1/mono.m3u8
