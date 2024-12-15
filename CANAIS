@@ -1,2 +1,104 @@
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais Abertos",Globo MG
-https://embedmax.site/tvl/space.php
+#EXTINF:-1 group-title="Canais",A Fazenda 01
+https://abc.embedmax.site/001/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",A Fazenda 02
+https://abc.embedmax.site/002/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",A Fazenda 03
+https://abc.embedmax.site/003/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",A Fazenda 04
+https://abc.embedmax.site/004/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",A Fazenda 05
+https://abc.embedmax.site/005/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",A Fazenda 06
+https://abc.embedmax.site/006/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Globo MG
+https://abc.embedmax.site/globoMG/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Globo SP
+https://abc.embedmax.site/globoSP/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Globo RJ
+https://abc.embedmax.site/globoRJ/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Globo Nordeste
+https://abc.embedmax.site/globonordeste/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Globo Brasília
+https://abc.embedmax.site/globobrasilia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",SBT
+https://abc.embedmax.site/sbt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Tv Brasil
+https://abc.embedmax.site/tvbrasil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Band
+https://abc.embedmax.site/band/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Record SP
+https://abc.embedmax.site/recordSP/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",ESPN 01
+https://abc.embedmax.site/espn1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",ESPN 02
+https://abc.embedmax.site/espn2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",ESPN 03
+https://abc.embedmax.site/espn3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",ESPN 04
+https://abc.embedmax.site/espn4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",ESPN 05
+https://abc.embedmax.site/espn5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",ESPN 06
+https://abc.embedmax.site/espn6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",SporTV 01
+https://abc.embedmax.site/sportv1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",SporTV 02
+https://abc.embedmax.site/sportv2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",SporTV 03
+https://abc.embedmax.site/sportv3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Premiere 01
+https://abc.embedmax.site/premiere1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Premiere 02
+https://abc.embedmax.site/premiere2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Premiere 03
+https://abc.embedmax.site/premiere3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Premiere 04
+https://abc.embedmax.site/premiere4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Paramount Mais 01
+https://abc.embedmax.site/paramountmais1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Paramount Mais 02
+https://abc.embedmax.site/paramountmais2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Paramount Mais 03
+https://abc.embedmax.site/paramountmais3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",Combate
+https://abc.embedmax.site/combate/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",CazéTV 01
+https://abc.embedmax.site/cazetv1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",CazéTV 02
+https://abc.embedmax.site/cazetv2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais",CazéTV 03
+https://abc.embedmax.site/cazetv3/tracks-v1a1/mono.m3u8
