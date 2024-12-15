@@ -2,7 +2,6 @@
 
 #EXTM3U url-tvg="https://cr7v.short.gy/MeuInsta@mano_limah"
 
-####################################     Canais Abertos           ####################################
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais Abertos",Globo SP
 https://abc.embedmax.site/globoSP/tracks-v1a1/mono.m3u8
 
@@ -17,3 +16,9 @@ https://abc.embedmax.site/globonordeste/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais Abertos",Globo Brasília
 https://abc.embedmax.site/globobrasilia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais Abertos",Record SP
+https://new.m3u8.one/recordsp/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Canais Abertos",RedeTV!
+https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1305960097.m3u8
