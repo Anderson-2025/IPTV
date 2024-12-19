@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 #EXTINF:-1 tvg-name="Band News FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD [H265]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71790.ts
 #EXTINF:-1 tvg-name="Band News HD" tvg-logo="https://acstatic.co/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News HD
@@ -745,3 +745,201 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72432.ts
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72433.ts
 #EXTINF:-1 tvg-name="Warner Channel SD" tvg-logo="https://acstatic.co/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72434.ts
+#EXTINF:-1 tvg-name="A&E 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="Canais | 4K [FHDR]",A&E 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90647.ts
+#EXTINF:-1 tvg-name="AgroMais 4K FHDR" tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | 4K [FHDR]",AgroMais 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103532.ts
+#EXTINF:-1 tvg-name="AMC 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="Canais | 4K [FHDR]",AMC 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90646.ts
+#EXTINF:-1 tvg-name="Animal Planet 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | 4K [FHDR]",Animal Planet 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71774.ts
+#EXTINF:-1 tvg-name="Arte 1 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/arte1.png" group-title="Canais | 4K [FHDR]",Arte 1 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103531.ts
+#EXTINF:-1 tvg-name="AXN 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/axn.png" group-title="Canais | 4K [FHDR]",AXN 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90645.ts
+#EXTINF:-1 tvg-name="Band News 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/bandnews.png" group-title="Canais | 4K [FHDR]",Band News 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103526.ts
+#EXTINF:-1 tvg-name="Band Sports 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/bandsports.png" group-title="Canais | 4K [FHDR]",Band Sports 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103525.ts
+#EXTINF:-1 tvg-name="BIS 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/bis.png" group-title="Canais | 4K [FHDR]",BIS 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103527.ts
+#EXTINF:-1 tvg-name="Canal Brasil 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/canalbrasil.png" group-title="Canais | 4K [FHDR]",Canal Brasil 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103518.ts
+#EXTINF:-1 tvg-name="Canal do Boi 4K FHDR" tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Canais | 4K [FHDR]",Canal do Boi 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103516.ts
+#EXTINF:-1 tvg-name="Canal Rural 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="Canais | 4K [FHDR]",Canal Rural 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178516.ts
+#EXTINF:-1 tvg-name="Canal Sony 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/sony.png" group-title="Canais | 4K [FHDR]",Canal Sony 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103517.ts
+#EXTINF:-1 tvg-name="Cartoon Network 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/cartoon.png" group-title="Canais | 4K [FHDR]",Cartoon Network 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71830.ts
+#EXTINF:-1 tvg-name="Cartoonito 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/boomerang.png" group-title="Canais | 4K [FHDR]",Cartoonito 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90644.ts
+#EXTINF:-1 tvg-name="Cinecanal 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/01375ac11a3195fb2fdef0f451d0943e.png" group-title="Canais | 4K [FHDR]",Cinecanal 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103468.ts
+#EXTINF:-1 tvg-name="Cinemax 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/cinemax.png" group-title="Canais | 4K [FHDR]",Cinemax 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90643.ts
+#EXTINF:-1 tvg-name="CNN Brasil 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/cnn.png" group-title="Canais | 4K [FHDR]",CNN Brasil 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71798.ts
+#EXTINF:-1 tvg-name="Combate 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/combate.png" group-title="Canais | 4K [FHDR]",Combate 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71844.ts
+#EXTINF:-1 tvg-name="Comedy Central 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/comedycentral.png" group-title="Canais | 4K [FHDR]",Comedy Central 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90642.ts
+#EXTINF:-1 tvg-name="Cultura 4K FHDR" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | 4K [FHDR]",Cultura 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103513.ts
+#EXTINF:-1 tvg-name="Curta! 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Canais | 4K [FHDR]",Curta! 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103512.ts
+#EXTINF:-1 tvg-name="Discovery Channel 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="Canais | 4K [FHDR]",Discovery Channel 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71864.ts
+#EXTINF:-1 tvg-name="Discovery H&H 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoveryh%26h.png" group-title="Canais | 4K [FHDR]",Discovery H&H 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90251.ts
+#EXTINF:-1 tvg-name="Discovery Kids 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Canais | 4K [FHDR]",Discovery Kids 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90250.ts
+#EXTINF:-1 tvg-name="Discovery Science 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="Canais | 4K [FHDR]",Discovery Science 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103511.ts
+#EXTINF:-1 tvg-name="Discovery Theater 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoverytheater.png" group-title="Canais | 4K [FHDR]",Discovery Theater 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103510.ts
+#EXTINF:-1 tvg-name="Discovery Turbo 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoveryturbo.png" group-title="Canais | 4K [FHDR]",Discovery Turbo 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90641.ts
+#EXTINF:-1 tvg-name="Discovery World 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoveryworld.png" group-title="Canais | 4K [FHDR]",Discovery World 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103509.ts
+#EXTINF:-1 tvg-name="Disney Channel 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/disney.png" group-title="Canais | 4K [FHDR]",Disney Channel 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103508.ts
+#EXTINF:-1 tvg-name="E! 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/e%21.png" group-title="Canais | 4K [FHDR]",E! 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103506.ts
+#EXTINF:-1 tvg-name="ESPN 2 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/espn2.png" group-title="Canais | 4K [FHDR]",ESPN 2 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71921.ts
+#EXTINF:-1 tvg-name="ESPN 3 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/espn.png" group-title="Canais | 4K [FHDR]",ESPN 3 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103504.ts
+#EXTINF:-1 tvg-name="ESPN 4 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/foxsports1.png" group-title="Canais | 4K [FHDR]",ESPN 4 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71959.ts
+#EXTINF:-1 tvg-name="ESPN 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/espnbrasil.png" group-title="Canais | 4K [FHDR]",ESPN 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90640.ts
+#EXTINF:-1 tvg-name="ESPN 6 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="Canais | 4K [FHDR]",ESPN 6 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103505.ts
+#EXTINF:-1 tvg-name="Fashion TV 4K FHDR" tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | 4K [FHDR]",Fashion TV 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103503.ts
+#EXTINF:-1 tvg-name="Film&Arts FHDR" tvg-logo="" group-title="Canais | 4K [FHDR]",Film&Arts FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178518.ts
+#EXTINF:-1 tvg-name="Fish TV 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/fishtv.png" group-title="Canais | 4K [FHDR]",Fish TV 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103502.ts
+#EXTINF:-1 tvg-name="Food Network 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/foodnetwork.png" group-title="Canais | 4K [FHDR]",Food Network 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103501.ts
+#EXTINF:-1 tvg-name="ESPN 5 FHDR" tvg-logo="https://acstatic.co/logos/canais/foxsports2.png" group-title="Canais | 4K [FHDR]",ESPN 5 FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71954.ts
+#EXTINF:-1 tvg-name="France 24 4K FHDR" tvg-logo="" group-title="Canais | 4K [FHDR]",France 24 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103500.ts
+#EXTINF:-1 tvg-name="Futura 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/futura.png" group-title="Canais | 4K [FHDR]",Futura 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103499.ts
+#EXTINF:-1 tvg-name="FX 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/fx.png" group-title="Canais | 4K [FHDR]",FX 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90639.ts
+#EXTINF:-1 tvg-name="Globo News 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/globonews.png" group-title="Canais | 4K [FHDR]",Globo News 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90248.ts
+#EXTINF:-1 tvg-name="Globo TV Verdes Mares 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="Canais | 4K [FHDR]",Globo TV Verdes Mares 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72080.ts
+#EXTINF:-1 tvg-name="Gloob 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/gloob.png" group-title="Canais | 4K [FHDR]",Gloob 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103498.ts
+#EXTINF:-1 tvg-name="Gloobinho 4K FHDR" tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | 4K [FHDR]",Gloobinho 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103497.ts
+#EXTINF:-1 tvg-name="GNT 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/gnt.png" group-title="Canais | 4K [FHDR]",GNT 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90638.ts
+#EXTINF:-1 tvg-name="H2 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | 4K [FHDR]",H2 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90245.ts
+#EXTINF:-1 tvg-name="HBO 2 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/hbo2.png" group-title="Canais | 4K [FHDR]",HBO 2 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90246.ts
+#EXTINF:-1 tvg-name="HBO 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/hbo.png" group-title="Canais | 4K [FHDR]",HBO 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90247.ts
+#EXTINF:-1 tvg-name="HBO Family 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/hbofamily.png" group-title="Canais | 4K [FHDR]",HBO Family 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90637.ts
+#EXTINF:-1 tvg-name="HBO MUNDI 4K FHDR" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | 4K [FHDR]",HBO MUNDI 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103496.ts
+#EXTINF:-1 tvg-name="HBO Plus 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/hboplus.png" group-title="Canais | 4K [FHDR]",HBO Plus 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90635.ts
+#EXTINF:-1 tvg-name="HBO POP 4K FHDR" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | 4K [FHDR]",HBO POP 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103495.ts
+#EXTINF:-1 tvg-name="HBO Signature 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/hbosignature.png" group-title="Canais | 4K [FHDR]",HBO Signature 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103494.ts
+#EXTINF:-1 tvg-name="HBO Xtreme 4K FHDR" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | 4K [FHDR]",HBO Xtreme 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90636.ts
+#EXTINF:-1 tvg-name="HGTV 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | 4K [FHDR]",HGTV 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103493.ts
+#EXTINF:-1 tvg-name="History 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | 4K [FHDR]",History 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90244.ts
+#EXTINF:-1 tvg-name="ID 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/id.png" group-title="Canais | 4K [FHDR]",ID 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90243.ts
+#EXTINF:-1 tvg-name="Ideal TV 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/6791e20f29c12970b66e3b2fc0a43980.jpg" group-title="Canais | 4K [FHDR]",Ideal TV 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178525.ts
+#EXTINF:-1 tvg-name="Jovem Pan News 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="Canais | 4K [FHDR]",Jovem Pan News 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/134021.ts
+#EXTINF:-1 tvg-name="Lifetime 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/lifetime.png" group-title="Canais | 4K [FHDR]",Lifetime 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103492.ts
+#EXTINF:-1 tvg-name="Like 4K FHDR" tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | 4K [FHDR]",Like 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103491.ts
+#EXTINF:-1 tvg-name="Markket 4K FHDR" tvg-logo="" group-title="Canais | 4K [FHDR]",Markket 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/164026.ts
+#EXTINF:-1 tvg-name="Megapix 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | 4K [FHDR]",Megapix 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131104.ts
+#EXTINF:-1 tvg-name="Modo Viagem 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="Canais | 4K [FHDR]",Modo Viagem 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103488.ts
+#EXTINF:-1 tvg-name="MTV 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/mtv.png" group-title="Canais | 4K [FHDR]",MTV 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103490.ts
+#EXTINF:-1 tvg-name="MTV LIVE 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/mtv.png" group-title="Canais | 4K [FHDR]",MTV LIVE 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103489.ts
+#EXTINF:-1 tvg-name="MTVs 00 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/vh1.png" group-title="Canais | 4K [FHDR]",MTVs 00 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103451.ts
+#EXTINF:-1 tvg-name="Multishow 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/multishow.png" group-title="Canais | 4K [FHDR]",Multishow 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131138.ts
+#EXTINF:-1 tvg-name="Music Box Brazil 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/musicboxbrazil.png" group-title="Canais | 4K [FHDR]",Music Box Brazil 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103487.ts
+#EXTINF:-1 tvg-name="National Geographic 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/nationalgeographic.png" group-title="Canais | 4K [FHDR]",National Geographic 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72198.ts
+#EXTINF:-1 tvg-name="Nick Jr. 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/nickjr.png" group-title="Canais | 4K [FHDR]",Nick Jr. 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103485.ts
+#EXTINF:-1 tvg-name="Nickelodeon 4K FHDR" tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | 4K [FHDR]",Nickelodeon 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90241.ts
+#EXTINF:-1 tvg-name="Nosso Futebol 1 4K FHDR" tvg-logo="" group-title="Canais | 4K [FHDR]",Nosso Futebol 1 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184572.ts
+#EXTINF:-1 tvg-name="Nosso Futebol 2 4K FHDR" tvg-logo="" group-title="Canais | 4K [FHDR]",Nosso Futebol 2 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184577.ts
+#EXTINF:-1 tvg-name="Nosso Futebol 3 4K FHDR" tvg-logo="" group-title="Canais | 4K [FHDR]",Nosso Futebol 3 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184582.ts
+#EXTINF:-1 tvg-name="OFF 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/off.png" group-title="Canais | 4K [FHDR]",OFF 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90240.ts
+#EXTINF:-1 tvg-name="Pai Eterno 4K FHDR" tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | 4K [FHDR]",Pai Eterno 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103484.ts
+#EXTINF:-1 tvg-name="Paramount + 1 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | 4K [FHDR]",Paramount + 1 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103524.ts
+#EXTINF:-1 tvg-name="Paramount + 2 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | 4K [FHDR]",Paramount + 2 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103523.ts
+#EXTINF:-1 tvg-name="Paramount + 3 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | 4K [FHDR]",Paramount + 3 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103522.ts
+#EXTINF:-1 tvg-name="Paramount + 4 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | 4K [FHDR]",Paramount + 4 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103521.ts
+#EXTINF:-1 tvg-name="Paramount Channel 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/paramount.png" group-title="Canais | 4K [FHDR]",Paramount Channel 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90634.ts
+#EXTINF:-1 tvg-name="Premiere 2 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K [FHDR]",Premiere 2 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103482.ts
+#EXTINF:-1 tvg-name="Premiere 3 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K [FHDR]",Premiere 3 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103481.ts
+#EXTINF:-1 tvg-name="Premiere 4 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K [FHDR]",Premiere 4 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103480.ts
+#EXTINF:-1 tvg-name="Premiere 5 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K [FHDR]",Premiere 5 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103479.ts
+#EXTINF:-1 tvg-name="Premiere 6 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K [FHDR]",Premiere 6 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103478.ts
+#EXTINF:-1 tvg-name="Premiere 7 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K [FHDR]",Premiere 7 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103477.ts
+#EXTINF:-1 tvg-name="Premiere 8 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K [FHDR]",Premiere 8 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/180162.ts
+#EXTINF:-1 tvg-name="Premiere Clubes 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K [FHDR]",Premiere Clubes 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72264.ts
+#EXTINF:-1 tvg-name="Prime Box Brazil 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/primeboxbrazil.png" group-title="Canais | 4K [FHDR]",Prime Box Brazil 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103476.ts
+#EXTINF:-1 tvg-name="Record News 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/2449a2b4976db3d6d8efdbd249a40971.png" group-title="Canais | 4K [FHDR]",Record News 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178523.ts
+#EXTINF:-1 tvg-name="Rede Gospel 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/bb8c38ad035e925a1f2c8fb19c785370.jpg" group-title="Canais | 4K [FHDR]",Rede Gospel 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178531.ts
+#EXTINF:-1 tvg-name="Rede Vida 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/redevida.png" group-title="Canais | 4K [FHDR]",Rede Vida 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103475.ts
+#EXTINF:-1 tvg-name="RedeTV! 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/730b1aa20e87fbb7b2101a02fe806630.png" group-title="Canais | 4K [FHDR]",RedeTV! 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178532.ts
