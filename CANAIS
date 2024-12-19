@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/"
 #EXTINF:-1 tvg-name="Band News FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD [H265]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71790.ts
 #EXTINF:-1 tvg-name="Band News HD" tvg-logo="https://acstatic.co/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News HD
