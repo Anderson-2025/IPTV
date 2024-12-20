@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
+#EXTM3U url-tvg="https://gist.github.com/lagosiptv/6cc09a4e8c4396150c762e561b320e99#file-epg-xml"
 #EXTINF:-1 tvg-name="Band News FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD [H265]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71790.ts
 #EXTINF:-1 tvg-name="Band News HD" tvg-logo="https://acstatic.co/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News HD
