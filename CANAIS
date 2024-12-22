@@ -1,6 +1,6 @@
 ####################################           EPG                ####################################
 
-#EXTM3U url-tvg="https://cr7v.short.gy/MeuInsta@mano_limah"
+#EXTM3U url-tvg="https://gist.githubusercontent.com/micdouglas/486f35eefa2274fa8ec0ce2e3362ec8d/raw/4094cdba37830eacab50c531399aaec0f19ba29b/EPG%2520Tv%2520a%2520Cabo.xml"
 #EXTINF:-1 tvg-name="A&E 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="Canais | 4K [FHDR]",A&E 4K FHDR
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90647.ts
 #EXTINF:-1 tvg-name="AgroMais 4K FHDR" tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | 4K [FHDR]",AgroMais 4K FHDR
