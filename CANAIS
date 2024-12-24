@@ -1,34 +1,25 @@
-
-
-########################################################################################################
-####################################     EPG                        ####################################
-####################################     Canais 4K [FHDR]           ####################################
-####################################     Canais Abertos             ####################################
-####################################     Canais Documentários       ####################################
-####################################     Canais Esportes            ####################################
-####################################     Canais Filmes e Séries     ####################################
-####################################     Canais Infantis            ####################################
-####################################     Canais Música              ####################################
-####################################     Canais Notícias            ####################################
-####################################     Canais Religiosos          ####################################
-####################################     Canais Variedades          ####################################
-########################################################################################################
-
-####################################     EPG                        ####################################
 #EXTM3U url-tvg="https://github.com/dtankdempse/daddylive-m3u/raw/refs/heads/main/epg.xml"
 
-
+#A&E
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="--Genero--",A&E 4K
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90647.ts
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="--Genero--",A&E FHD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71760.ts
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="--Genero--",A&E FHD [H265]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71761.ts
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="--Genero--",A&E HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71762.ts
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="--Genero--",A&E SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71763.ts
+
+#AMC
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png group-title="--Genero--",AMC 4K
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90646.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="--Genero--",AMC FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71768.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="--Genero--",AMC FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71769.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="--Genero--",AMC HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71770.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="--Genero--",AMC SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191197.ts
