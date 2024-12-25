@@ -1,11 +1,11 @@
 ####################################     EPG                        ####################################
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 ########################################################################################################
-#EXTINF:-1 tvg-name="Agro+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Agromais-band-logo.png" group-title="Canais | Abertos",Agro+ FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71764.m3u8
-#EXTINF:-1 tvg-name="Agro+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Agromais-band-logo.png" group-title="Canais | Abertos",Agro+ HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71766.m3u8
-#EXTINF:-1 tvg-name="Agro+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Agromais-band-logo.png" group-title="Canais | Abertos",Agro+ SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71767.m3u8
+#EXTINF:-1 tvg-name="Band HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg" group-title="Canais | Abertos",Band SP FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/79311.m3u8
+#EXTINF:-1 tvg-name="Band HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg" group-title="Canais | Abertos",Band SP HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72597.m3u8
+#EXTINF:-1 tvg-name="Band HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg" group-title="Canais | Abertos",Band SP SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/79312.m3u8
 
 
