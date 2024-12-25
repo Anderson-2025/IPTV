@@ -1,11 +1,11 @@
 ####################################     EPG                        ####################################
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 ########################################################################################################
-#EXTINF:-1 tvg-name="Canal do Boi FHD" tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi FHD
+#EXTINF:-1 tvg-name="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canais | Abertos",Canal do Boi FHD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71820.m3u8
-#EXTINF:-1 tvg-name="Canal do Boi HD" tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi HD
+#EXTINF:-1 tvg-name="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canais | Abertos",Canal do Boi HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71821.m3u8
-#EXTINF:-1 tvg-name="Canal do Boi SD" tvg-logo="https://acstatic.co/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi SD
+#EXTINF:-1 tvg-name="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canais | Abertos",Canal do Boi SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71822.m3u8
 
 
