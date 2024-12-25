@@ -1,11 +1,183 @@
 ####################################     EPG                        ####################################
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 ########################################################################################################
+#EXTINF:-1 tvg-name="Agro+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Agromais-band-logo.png" group-title="Canais | Abertos",Agro+ FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71764.m3u8
+#EXTINF:-1 tvg-name="Agro+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Agromais-band-logo.png" group-title="Canais | Abertos",Agro+ HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71766.m3u8
+#EXTINF:-1 tvg-name="Agro+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Agromais-band-logo.png" group-title="Canais | Abertos",Agro+ SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71767.m3u8
+
+#EXTINF:-1 tvg-name="Band HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg" group-title="Canais | Abertos",Band SP FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/79311.m3u8
+#EXTINF:-1 tvg-name="Band HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg" group-title="Canais | Abertos",Band SP HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72597.m3u8
+#EXTINF:-1 tvg-name="Band HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg" group-title="Canais | Abertos",Band SP SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/79312.m3u8
+
 #EXTINF:-1 tvg-name="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canais | Abertos",Canal do Boi FHD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71820.m3u8
 #EXTINF:-1 tvg-name="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canais | Abertos",Canal do Boi HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71821.m3u8
 #EXTINF:-1 tvg-name="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canais | Abertos",Canal do Boi SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71822.m3u8
+
+
+#EXTINF:-1 tvg-name="Canal Rural FHD" tvg-logo="http://imagecdn.sh:80/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="Canais | Abertos",Canal Rural FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178512.m3u8
+#EXTINF:-1 tvg-name="Canal Rural FHD [H265]" tvg-logo="http://imagecdn.sh:80/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="Canais | Abertos",Canal Rural FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178515.m3u8
+#EXTINF:-1 tvg-name="Canal Rural HD" tvg-logo="http://imagecdn.sh:80/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="Canais | Abertos",Canal Rural HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178513.m3u8
+#EXTINF:-1 tvg-name="Canal Rural SD" tvg-logo="http://imagecdn.sh:80/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="Canais | Abertos",Canal Rural SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71823.m3u8
+#EXTINF:-1 tvg-name="Canal Rural SD" tvg-logo="http://imagecdn.sh:80/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="Canais | Abertos",Canal Rural SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178514.m3u8
+#EXTINF:-1 tvg-name="Cultura FHD" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71851.m3u8
+#EXTINF:-1 tvg-name="Cultura FHD [H265]" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71852.m3u8
+#EXTINF:-1 tvg-name="Cultura HD" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71853.m3u8
+#EXTINF:-1 tvg-name="Cultura SD" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Canais | Abertos",Cultura SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71854.m3u8
+#EXTINF:-1 tvg-name="Futura FHD" tvg-logo="https://acstatic.co/logos/canais/futura.png" group-title="Canais | Abertos",Futura FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71962.m3u8
+#EXTINF:-1 tvg-name="Futura FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/futura.png" group-title="Canais | Abertos",Futura FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71963.m3u8
+#EXTINF:-1 tvg-name="Futura HD" tvg-logo="https://acstatic.co/logos/canais/futura.png" group-title="Canais | Abertos",Futura HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71964.m3u8
+#EXTINF:-1 tvg-name="Futura SD" tvg-logo="https://acstatic.co/logos/canais/futura.png" group-title="Canais | Abertos",Futura SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71965.m3u8
+#EXTINF:-1 tvg-name="RecordTV Belem HD" tvg-logo="http://imagecdn.sh:80/images/772255b867c746a532039ecd6dbc6a72.png" group-title="Canais | Abertos",RecordTV Belem HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/96523.m3u8
+#EXTINF:-1 tvg-name="RecordTV Belem SD" tvg-logo="" group-title="Canais | Abertos",RecordTV Belem SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/73262.m3u8
+#EXTINF:-1 tvg-name="RecordTV Itapoan FHD" tvg-logo="https://acstatic.co/logos/canais/record.png" group-title="Canais | Abertos",RecordTV Itapoan FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/157406.m3u8
+#EXTINF:-1 tvg-name="RecordTV Itapoan HD" tvg-logo="https://acstatic.co/logos/canais/record.png" group-title="Canais | Abertos",RecordTV Itapoan HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72284.m3u8
+#EXTINF:-1 tvg-name="RecordTV Itapoan SD" tvg-logo="https://acstatic.co/logos/canais/record.png" group-title="Canais | Abertos",RecordTV Itapoan SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72285.m3u8
+#EXTINF:-1 tvg-name="RecordTV RJ FHD" tvg-logo="https://acstatic.co/logos/canais/record.png" group-title="Canais | Abertos",RecordTV RJ FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/106638.m3u8
+#EXTINF:-1 tvg-name="RecordTV RJ HD" tvg-logo="https://acstatic.co/logos/canais/record.png" group-title="Canais | Abertos",RecordTV RJ HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72594.m3u8
+#EXTINF:-1 tvg-name="RecordTV RJ SD" tvg-logo="https://acstatic.co/logos/canais/record.png" group-title="Canais | Abertos",RecordTV RJ SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/96526.m3u8
+#EXTINF:-1 tvg-name="RecordTV SP FHD" tvg-logo="https://acstatic.co/logos/canais/record.png" group-title="Canais | Abertos",RecordTV SP FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/77654.m3u8
+#EXTINF:-1 tvg-name="RecordTV SP FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/record.png" group-title="Canais | Abertos",RecordTV SP FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72595.m3u8
+#EXTINF:-1 tvg-name="RecordTV SP HD" tvg-logo="https://acstatic.co/logos/canais/record.png" group-title="Canais | Abertos",RecordTV SP HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72973.m3u8
+#EXTINF:-1 tvg-name="RecordTV SP SD" tvg-logo="https://acstatic.co/logos/canais/record.png" group-title="Canais | Abertos",RecordTV SP SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/96522.m3u8
+#EXTINF:-1 tvg-name="RedeTV FHD" tvg-logo="http://imagecdn.sh:80/images/730b1aa20e87fbb7b2101a02fe806630.png" group-title="Canais | Abertos",RedeTV FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72297.m3u8
+#EXTINF:-1 tvg-name="RedeTV FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72298.m3u8
+#EXTINF:-1 tvg-name="RedeTV HD" tvg-logo="http://imagecdn.sh:80/images/730b1aa20e87fbb7b2101a02fe806630.png" group-title="Canais | Abertos",RedeTV HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72299.m3u8
+#EXTINF:-1 tvg-name="RedeTV SD" tvg-logo="http://imagecdn.sh:80/images/730b1aa20e87fbb7b2101a02fe806630.png" group-title="Canais | Abertos",RedeTV SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72300.m3u8
+#EXTINF:-1 tvg-name="RTP 1 FHD" tvg-logo="https://4.bp.blogspot.com/-3HFzezHOw2s/WB3MK6zeqTI/AAAAAAAAFRk/DhtV1HhzaL4DkDZt2reem5MVjO3711VoQCLcB/s1600/RTP%2B1%2BHD%2Blogo.png" group-title="Canais | Abertos",RTP 1 FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191401.m3u8
+#EXTINF:-1 tvg-name="RTP 1 HD" tvg-logo="https://4.bp.blogspot.com/-3HFzezHOw2s/WB3MK6zeqTI/AAAAAAAAFRk/DhtV1HhzaL4DkDZt2reem5MVjO3711VoQCLcB/s1600/RTP%2B1%2BHD%2Blogo.png" group-title="Canais | Abertos",RTP 1 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191399.m3u8
+#EXTINF:-1 tvg-name="RTP 1 SD" tvg-logo="https://2.bp.blogspot.com/-ygRxWjA8yjM/WB3MKzbPNFI/AAAAAAAAFRs/BUdrADdoHCE3hOK8PwzgiHpwzMSTJvpPQCLcB/s1600/RTP%2B1%2Blogo.png" group-title="Canais | Abertos",RTP 1 SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191398.m3u8
+#EXTINF:-1 tvg-name="RTP 1 [H265]" tvg-logo="https://2.bp.blogspot.com/-ygRxWjA8yjM/WB3MKzbPNFI/AAAAAAAAFRs/BUdrADdoHCE3hOK8PwzgiHpwzMSTJvpPQCLcB/s1600/RTP%2B1%2Blogo.png" group-title="Canais | Abertos",RTP 1 [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191400.m3u8
+#EXTINF:-1 tvg-name="RTP 2 FHD" tvg-logo="https://4.bp.blogspot.com/-iC-8_X3fxMo/WB3MLP7PRrI/AAAAAAAAFRw/loEmJfcu0wIJna15b83hKr53bbsLmoRGQCLcB/s1600/RTP%2B2%2Blogo.png" group-title="Canais | Abertos",RTP 2 FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191405.m3u8
+#EXTINF:-1 tvg-name="RTP 2 HD" tvg-logo="https://4.bp.blogspot.com/-iC-8_X3fxMo/WB3MLP7PRrI/AAAAAAAAFRw/loEmJfcu0wIJna15b83hKr53bbsLmoRGQCLcB/s1600/RTP%2B2%2Blogo.png" group-title="Canais | Abertos",RTP 2 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191403.m3u8
+#EXTINF:-1 tvg-name="RTP 2 SD" tvg-logo="https://4.bp.blogspot.com/-iC-8_X3fxMo/WB3MLP7PRrI/AAAAAAAAFRw/loEmJfcu0wIJna15b83hKr53bbsLmoRGQCLcB/s1600/RTP%2B2%2Blogo.png" group-title="Canais | Abertos",RTP 2 SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191402.m3u8
+#EXTINF:-1 tvg-name="RTP 2 [H265]" tvg-logo="https://4.bp.blogspot.com/-iC-8_X3fxMo/WB3MLP7PRrI/AAAAAAAAFRw/loEmJfcu0wIJna15b83hKr53bbsLmoRGQCLcB/s1600/RTP%2B2%2Blogo.png" group-title="Canais | Abertos",RTP 2 [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191404.m3u8
+#EXTINF:-1 tvg-name="SBT Rede Massa PR HD" tvg-logo="https://acstatic.co/logos/canais/sbt.png" group-title="Canais | Abertos",SBT Rede Massa PR HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72305.m3u8
+#EXTINF:-1 tvg-name="SBT RJ FHD" tvg-logo="https://acstatic.co/logos/canais/sbt.png" group-title="Canais | Abertos",SBT RJ FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/108681.m3u8
+#EXTINF:-1 tvg-name="SBT RJ HD" tvg-logo="https://acstatic.co/logos/canais/sbt.png" group-title="Canais | Abertos",SBT RJ HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/108682.m3u8
+#EXTINF:-1 tvg-name="SBT RJ SD" tvg-logo="https://acstatic.co/logos/canais/sbt.png" group-title="Canais | Abertos",SBT RJ SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/108683.m3u8
+#EXTINF:-1 tvg-name="SBT RS HD" tvg-logo="https://acstatic.co/logos/canais/sbt.png" group-title="Canais | Abertos",SBT RS HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/75028.m3u8
+#EXTINF:-1 tvg-name="SBT SP FHD" tvg-logo="http://imagecdn.sh:80/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="Canais | Abertos",SBT SP FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/77963.m3u8
+#EXTINF:-1 tvg-name="SBT SP FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SP FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/104939.m3u8
+#EXTINF:-1 tvg-name="SBT SP HD" tvg-logo="http://imagecdn.sh:80/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="Canais | Abertos",SBT SP HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72598.m3u8
+#EXTINF:-1 tvg-name="SBT SP SD" tvg-logo="http://imagecdn.sh:80/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="Canais | Abertos",SBT SP SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/77964.m3u8
+#EXTINF:-1 tvg-name="SBT TV Alterosa HD" tvg-logo="http://fanc.tmsimg.com/assets/s104210_ll_h3_aa.png" group-title="Canais | Abertos",SBT TV Alterosa HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72621.m3u8
+#EXTINF:-1 tvg-name="SIC FHD" tvg-logo="https://4.bp.blogspot.com/-seQXpicDRC0/WDtddC4QH6I/AAAAAAAAFjg/07nSMTXxE54Vf4TlXW2rTvG35BT-d-qqQCLcB/s1600/SIC%2BHD%2Blogo.png" group-title="Canais | Abertos",SIC FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191409.m3u8
+#EXTINF:-1 tvg-name="SIC HD" tvg-logo="https://4.bp.blogspot.com/-seQXpicDRC0/WDtddC4QH6I/AAAAAAAAFjg/07nSMTXxE54Vf4TlXW2rTvG35BT-d-qqQCLcB/s1600/SIC%2BHD%2Blogo.png" group-title="Canais | Abertos",SIC HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191407.m3u8
+#EXTINF:-1 tvg-name="SIC SD" tvg-logo="https://4.bp.blogspot.com/-seQXpicDRC0/WDtddC4QH6I/AAAAAAAAFjg/07nSMTXxE54Vf4TlXW2rTvG35BT-d-qqQCLcB/s1600/SIC%2BHD%2Blogo.png" group-title="Canais | Abertos",SIC SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191406.m3u8
+#EXTINF:-1 tvg-name="SIC [H265]" tvg-logo="https://4.bp.blogspot.com/-seQXpicDRC0/WDtddC4QH6I/AAAAAAAAFjg/07nSMTXxE54Vf4TlXW2rTvG35BT-d-qqQCLcB/s1600/SIC%2BHD%2Blogo.png" group-title="Canais | Abertos",SIC [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191408.m3u8
+#EXTINF:-1 tvg-name="TV Brasil FHD" tvg-logo="https://acstatic.co/logos/canais/tvbrasil.png" group-title="Canais | Abertos",TV Brasil FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72399.m3u8
+#EXTINF:-1 tvg-name="TV Brasil FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/tvbrasil.png" group-title="Canais | Abertos",TV Brasil FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72400.m3u8
+#EXTINF:-1 tvg-name="TV Brasil HD" tvg-logo="https://acstatic.co/logos/canais/tvbrasil.png" group-title="Canais | Abertos",TV Brasil HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72401.m3u8
+#EXTINF:-1 tvg-name="TV Cidade RecordTV FHD" tvg-logo="https://imgur.com/DRX0wcK" group-title="Canais | Abertos",TV Cidade RecordTV FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/92666.m3u8
+#EXTINF:-1 tvg-name="TV Cidade RecordTV FHD [H265]" tvg-logo="https://imgur.com/DRX0wcK" group-title="Canais | Abertos",TV Cidade RecordTV FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/92667.m3u8
+#EXTINF:-1 tvg-name="TV Cidade RecordTV HD" tvg-logo="https://imgur.com/DRX0wcK" group-title="Canais | Abertos",TV Cidade RecordTV HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/92668.m3u8
+#EXTINF:-1 tvg-name="TV Cidade RecordTV SD" tvg-logo="https://imgur.com/DRX0wcK" group-title="Canais | Abertos",TV Cidade RecordTV SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/92669.m3u8
+#EXTINF:-1 tvg-name="TV Gazeta FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/104919.m3u8
+#EXTINF:-1 tvg-name="TV Gazeta SP FHD" tvg-logo="http://imagecdn.sh:80/images/2baf5152b328307749ffbafedb684497.png" group-title="Canais | Abertos",TV Gazeta SP FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/104917.m3u8
+#EXTINF:-1 tvg-name="TV Gazeta SP HD" tvg-logo="http://imagecdn.sh:80/images/2baf5152b328307749ffbafedb684497.png" group-title="Canais | Abertos",TV Gazeta SP HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72406.m3u8
+#EXTINF:-1 tvg-name="TV Gazeta SP SD" tvg-logo="http://imagecdn.sh:80/images/2baf5152b328307749ffbafedb684497.png" group-title="Canais | Abertos",TV Gazeta SP SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/104918.m3u8
+#EXTINF:-1 tvg-name="TV Gazeta SP [H265]" tvg-logo="" group-title="Canais | Abertos",TV Gazeta SP [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178519.m3u8
+#EXTINF:-1 tvg-name="TV Uniao Fortaleza FHD" tvg-logo="" group-title="Canais | Abertos",TV Uniao Fortaleza FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/100420.m3u8
+#EXTINF:-1 tvg-name="TV Uniao Fortaleza FHD [H265]" tvg-logo="" group-title="Canais | Abertos",TV Uniao Fortaleza FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/100422.m3u8
+#EXTINF:-1 tvg-name="TV Uniao Fortaleza HD" tvg-logo="" group-title="Canais | Abertos",TV Uniao Fortaleza HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/100423.m3u8
+#EXTINF:-1 tvg-name="TV Uniao Fortaleza SD" tvg-logo="" group-title="Canais | Abertos",TV Uniao Fortaleza SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/100424.m3u8
+#EXTINF:-1 tvg-name="TVI FHD" tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png" group-title="Canais | Abertos",TVI FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191413.m3u8
+#EXTINF:-1 tvg-name="TVI HD" tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png" group-title="Canais | Abertos",TVI HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191411.m3u8
+#EXTINF:-1 tvg-name="TVI SD" tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png" group-title="Canais | Abertos",TVI SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191410.m3u8
+#EXTINF:-1 tvg-name="TVI [H265]" tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png" group-title="Canais | Abertos",TVI [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191412.m3u8
+#EXTINF:-1 tvg-name="Globo EPTV Campinas FHD" tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="Canais | Abertos",Globo EPTV Campinas FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131150.m3u8
+#EXTINF:-1 tvg-name="Globo EPTV Campinas HD" tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="Canais | Abertos",Globo EPTV Campinas HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71977.m3u8
+#EXTINF:-1 tvg-name="Globo EPTV Campinas SD" tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="Canais | Abertos",Globo EPTV Campinas SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131210.m3u8
+#EXTINF:-1 tvg-name="Globo SP FHD" tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72040.m3u8
+#EXTINF:-1 tvg-name="Globo SP FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131215.m3u8
+#EXTINF:-1 tvg-name="Globo SP HD" tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131212.m3u8
+#EXTINF:-1 tvg-name="Globo SP SD" tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72042.m3u8
 
 
