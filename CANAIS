@@ -14,7 +14,8 @@
 
 ####################################     EPG                        ####################################
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-name="Agro+" tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title=""Canais | Abertos",Agro+ 4K
+
+#EXTINF:-1 tvg-name="Agro+" tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",Agro+ 4K
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103532.ts
 #EXTINF:-1 tvg-name="Agro+" tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",Agro+ FHD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71764.m3u8
