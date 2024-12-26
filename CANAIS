@@ -1,13 +1,10 @@
-####################################     EPG                        ####################################
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-########################################################################################################
 #EXTINF:-1 tvg-name="AMC Break HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/AMC_Break.svg" group-title="Canais | Filmes e Séries",AMC Break HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191202.ts
 
 #EXTINF:-1 tvg-name="AMC Crime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/AMC_Crime.svg" group-title="Canais | Filmes e Séries",AMC Crime HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191200.ts
 
-#EXTINF:-1 tvg-name="AMC HD" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC HD
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71770.ts
 
 #EXTINF:-1 tvg-name="AMC HD" tvg-logo="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC%2Blogo.png" group-title="Canais | Filmes e Séries",AMC HD
@@ -537,5 +534,3 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72139.ts
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72140.ts
 #EXTINF:-1 tvg-name="HBO Xtreme SD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Filmes e Séries",HBO Xtreme SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72141.ts
-
-
