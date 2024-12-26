@@ -1,47 +1,139 @@
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Canais | Documentários",Animal Planet HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71775.m3u8
 
-#EXTINF:-1 tvg-name="Arte 1 HD" tvg-logo="https://acstatic.co/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71779.m3u8
-
-#EXTINF:-1 tvg-name="Canal História HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Canal_de_Historia.png" group-title="Canais | Documentários",Canal História HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191366.m3u8
-
-#EXTINF:-1 tvg-name="Curta! HD" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Canais | Documentários",Curta! HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71857.m3u8
-
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg" group-title="Canais | Documentários",Discovery Channel HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191363.m3u8
-
-#EXTINF:-1 tvg-name="Discovery ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png" group-title="Canais | Documentários",Discovery ID HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191367.m3u8
-
-#EXTINF:-1 tvg-name="Discovery Science HD" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71877.m3u8
-
-#EXTINF:-1 tvg-name="Discovery Theater" tvg-logo="https://acstatic.co/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71881.m3u8
-
-#EXTINF:-1 tvg-name="Discovery World" tvg-logo="https://acstatic.co/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71889.m3u8
-
-#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Fashion_TV_logo.svg" group-title="Canais | Documentários",Fashion TV HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191368.m3u8
-
-#EXTINF:-1 tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Canais | Documentários",HGTV HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72144.m3u8
-
-#EXTINF:-1 tvg-name="H2 HD" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | Documentários",History 2 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72108.m3u8
-
-#EXTINF:-1 tvg-name="History HD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | Documentários",History HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72148.m3u8
-
-#EXTINF:-1 tvg-name="ID HD" tvg-logo="http://imagecdn.sh:80/images/ae050ba13a405e34c4192a0da5376574.png" group-title="Canais | Documentários",ID HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72152.m3u8
-
-#EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="http://imagecdn.sh:80/images/9a5e6af569e7b3600bad7c9dcf77a721.png" group-title="Canais | Documentários",National Geographic HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72199.m3u8
-
-#EXTINF:-1 tvg-name="ODISSEIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="Canais | Documentários",ODISSEIA HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191365.m3u8
+#EXTINF:-1 tvg-name="24/7 CLASSICOS DISNEY" tvg-logo="https://i.ibb.co/FBDg1Qb/400px-Os-Classicos.jpg" group-title="Canais | Infantis",24/7 CLASSICOS DISNEY
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191394.ts
+#EXTINF:-1 tvg-name="24/7 DRAGON BALL SUPER" tvg-logo="https://i.ibb.co/fMgZNZd/image.png" group-title="Canais | Infantis",24/7 DRAGON BALL SUPER
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191393.ts
+#EXTINF:-1 tvg-name="BABY TV SD" tvg-logo="https://i.imgur.com/UKFLfSf.png" group-title="Canais | Infantis",BABY TV SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191381.ts
+#EXTINF:-1 tvg-name="BOOMERANG" tvg-logo="https://www.tvprogramacao.com/static/storage/app/epg_channel_icons/80b/5b5/80b5b5e0-7e4b-4dff-a483-376a26203bb2.png" group-title="Canais | Infantis",BOOMERANG
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191380.ts
+#EXTINF:-1 tvg-name="CANAL PANDA HD" tvg-logo="https://i.imgur.com/Crw0Nqu.png" group-title="Canais | Infantis",CANAL PANDA HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191385.ts
+#EXTINF:-1 tvg-name="CANAL PANDA SD" tvg-logo="https://i.imgur.com/Crw0Nqu.png" group-title="Canais | Infantis",CANAL PANDA SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191384.ts
+#EXTINF:-1 tvg-name="CANAL PANDA [H265]" tvg-logo="https://i.imgur.com/Crw0Nqu.png" group-title="Canais | Infantis",CANAL PANDA [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191386.ts
+#EXTINF:-1 tvg-name="Cartoon Network FHD" tvg-logo="https://acstatic.co/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71828.ts
+#EXTINF:-1 tvg-name="Cartoon Network FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71829.ts
+#EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="https://acstatic.co/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71831.ts
+#EXTINF:-1 tvg-name="Cartoon Network SD" tvg-logo="https://acstatic.co/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71832.ts
+#EXTINF:-1 tvg-name="CARTOON NETWORK SD" tvg-logo="https://i.imgur.com/Atdjaeq.png" group-title="Canais | Infantis",CARTOON NETWORK SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191392.ts
+#EXTINF:-1 tvg-name="Cartoonito FHD" tvg-logo="https://acstatic.co/logos/canais/boomerang.png" group-title="Canais | Infantis",Cartoonito FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71812.ts
+#EXTINF:-1 tvg-name="Cartoonito FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/boomerang.png" group-title="Canais | Infantis",Cartoonito FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71813.ts
+#EXTINF:-1 tvg-name="Cartoonito HD" tvg-logo="https://acstatic.co/logos/canais/boomerang.png" group-title="Canais | Infantis",Cartoonito HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71814.ts
+#EXTINF:-1 tvg-name="Cartoonito SD" tvg-logo="https://acstatic.co/logos/canais/boomerang.png" group-title="Canais | Infantis",Cartoonito SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71815.ts
+#EXTINF:-1 tvg-name="Discovery Kids FHD" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71871.ts
+#EXTINF:-1 tvg-name="Discovery Kids FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71872.ts
+#EXTINF:-1 tvg-name="Discovery Kids HD" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71873.ts
+#EXTINF:-1 tvg-name="Discovery Kids SD" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71874.ts
+#EXTINF:-1 tvg-name="DISNEY +" tvg-logo="https://disneyplusbrasil.com.br/wp-content/uploads/2020/07/logo-grande.png" group-title="Canais | Infantis",DISNEY +
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191378.ts
+#EXTINF:-1 tvg-name="Disney Channel FHD" tvg-logo="https://acstatic.co/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71891.ts
+#EXTINF:-1 tvg-name="Disney Channel FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71892.ts
+#EXTINF:-1 tvg-name="Disney Channel HD" tvg-logo="https://acstatic.co/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71893.ts
+#EXTINF:-1 tvg-name="Disney Channel SD" tvg-logo="https://acstatic.co/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71894.ts
+#EXTINF:-1 tvg-name="DISNEY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Canais | Infantis",DISNEY CHANNEL SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191391.ts
+#EXTINF:-1 tvg-name="DISNEY JUNIOR SD" tvg-logo="https://i.imgur.com/4dzzQ0t.png" group-title="Canais | Infantis",DISNEY JUNIOR SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191376.ts
+#EXTINF:-1 tvg-name="DISNEY MARVEL" tvg-logo="https://television.mxdwn.com/wp-content/uploads/2019/08/Disney-Marvel-logo.jpg" group-title="Canais | Infantis",DISNEY MARVEL
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191375.ts
+#EXTINF:-1 tvg-name="DISNEY PIXAR" tvg-logo="https://i.ibb.co/YZRmvNn/dpix.jpg" group-title="Canais | Infantis",DISNEY PIXAR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191374.ts
+#EXTINF:-1 tvg-name="DISNEY STAR WARS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Star_Wars_Commander_Icon.png" group-title="Canais | Infantis",DISNEY STAR WARS
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191373.ts
+#EXTINF:-1 tvg-name="FIREMAN SAM HD" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFmNGIwOWEtNWNjOS00MGQ2LWE2ZGUtYTYwNGIzOTkzOTZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="Canais | Infantis",FIREMAN SAM HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191370.ts
+#EXTINF:-1 tvg-name="Gloob FHD" tvg-logo="https://acstatic.co/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131153.ts
+#EXTINF:-1 tvg-name="Gloob FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72099.ts
+#EXTINF:-1 tvg-name="Gloob HD" tvg-logo="https://acstatic.co/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72100.ts
+#EXTINF:-1 tvg-name="Gloob SD" tvg-logo="https://acstatic.co/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131117.ts
+#EXTINF:-1 tvg-name="Gloobinho FHD" tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90631.ts
+#EXTINF:-1 tvg-name="Gloobinho FHD [H265]" tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90630.ts
+#EXTINF:-1 tvg-name="Gloobinho HD" tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90629.ts
+#EXTINF:-1 tvg-name="Gloobinho SD" tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131173.ts
+#EXTINF:-1 tvg-name="JIM JAM SD" tvg-logo="https://i.imgur.com/PBr8zK4.png" group-title="Canais | Infantis",JIM JAM SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191382.ts
+#EXTINF:-1 tvg-name="NETFLIX KIDS" tvg-logo="https://cdn.wccftech.com/wp-content/uploads/2018/04/Netflix-HD.png" group-title="Canais | Infantis",NETFLIX KIDS
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191372.ts
+#EXTINF:-1 tvg-name="Nick + HD" tvg-logo="https://www.meo.pt/PublishingImages/paginas/nick-plus/logo-nick-branco.png" group-title="Canais | Infantis",Nick + HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191377.ts
+#EXTINF:-1 tvg-name="Nick Jr FHD" tvg-logo="https://acstatic.co/logos/canais/nick.png" group-title="Canais | Infantis",Nick Jr FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72201.ts
+#EXTINF:-1 tvg-name="Nick Jr FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/nickjr.png" group-title="Canais | Infantis",Nick Jr FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72202.ts
+#EXTINF:-1 tvg-name="Nick Jr HD" tvg-logo="https://acstatic.co/logos/canais/nickjr.png" group-title="Canais | Infantis",Nick Jr HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72203.ts
+#EXTINF:-1 tvg-name="Nick Jr SD" tvg-logo="https://acstatic.co/logos/canais/nickjr.png" group-title="Canais | Infantis",Nick Jr SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72204.ts
+#EXTINF:-1 tvg-name="NICK JUNIOR SD" tvg-logo="http://i.imgur.com/gz6kU7g.png" group-title="Canais | Infantis",NICK JUNIOR SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191379.ts
+#EXTINF:-1 tvg-name="Nickelodeon FHD" tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72205.ts
+#EXTINF:-1 tvg-name="Nickelodeon FHD [H265]" tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72206.ts
+#EXTINF:-1 tvg-name="Nickelodeon HD" tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72207.ts
+#EXTINF:-1 tvg-name="NICKELODEON HD" tvg-logo="https://i.imgur.com/E8CQtKg.png" group-title="Canais | Infantis",NICKELODEON HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191383.ts
+#EXTINF:-1 tvg-name="Nickelodeon SD" tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72208.ts
+#EXTINF:-1 tvg-name="PANDA BIGGS FHD" tvg-logo="https://i.imgur.com/0rAXNbf.png" group-title="Canais | Infantis",PANDA BIGGS FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191390.ts
+#EXTINF:-1 tvg-name="PANDA BIGGS SD" tvg-logo="https://i.imgur.com/0rAXNbf.png" group-title="Canais | Infantis",PANDA BIGGS SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191389.ts
+#EXTINF:-1 tvg-name="PANDA KIDS SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Logo-pandakids.png/revision/latest?cb=20210819132138" group-title="Canais | Infantis",PANDA KIDS SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191387.ts
+#EXTINF:-1 tvg-name="PATRULHA PATA HD" tvg-logo="https://static.wikia.nocookie.net/vozesportuguesas/images/7/76/Patrulha_pata.png/revision/latest?cb=20210914224415&path-prefix=pt" group-title="Canais | Infantis",PATRULHA PATA HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191369.ts
+#EXTINF:-1 tvg-name="SANTIAGO DOS MARES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/5e/Santiago_of_the_Seas.webp/320px-Santiago_of_the_Seas.webp.png" group-title="Canais | Infantis",SANTIAGO DOS MARES HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191371.ts
+#EXTINF:-1 tvg-name="SIC KIDS HD" tvg-logo="https://i.imgur.com/WWW5qKT.png" group-title="Canais | Infantis",SIC KIDS HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191388.ts
+#EXTINF:-1 tvg-name="TV Ra-Tim-Bum FHD" tvg-logo="https://acstatic.co/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV Ra-Tim-Bum FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72412.ts
+#EXTINF:-1 tvg-name="TV Ra-Tim-Bum FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV Ra-Tim-Bum FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72413.ts
+#EXTINF:-1 tvg-name="TV Ra-Tim-Bum HD" tvg-logo="https://acstatic.co/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV Ra-Tim-Bum HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72414.ts
+#EXTINF:-1 tvg-name="TV Ra-Tim-Bum SD" tvg-logo="https://acstatic.co/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV Ra-Tim-Bum SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72415.ts
+#EXTINF:-1 tvg-name="TVI FICÇÃO FHD" tvg-logo="https://i.imgur.com/dm0MYaW.png" group-title="Canais | Infantis",TVI FICÇÃO FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191397.ts
+#EXTINF:-1 tvg-name="TVI FICÇÃO HD" tvg-logo="https://i.imgur.com/dm0MYaW.png" group-title="Canais | Infantis",TVI FICÇÃO HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191396.ts
+#EXTINF:-1 tvg-name="TVI FICÇÃO SD" tvg-logo="https://i.imgur.com/dm0MYaW.png" group-title="Canais | Infantis",TVI FICÇÃO SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191395.ts
+#EXTINF:-1 tvg-name="Zoomoo FHD" tvg-logo="http://imagecdn.sh:80/images/5dab2df694584172699383cdb1100c18.jpg" group-title="Canais | Infantis",Zoomoo FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/104934.ts
+#EXTINF:-1 tvg-name="Zoomoo FHD [H265]" tvg-logo="http://imagecdn.sh:80/images/5dab2df694584172699383cdb1100c18.jpg" group-title="Canais | Infantis",Zoomoo FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/104937.ts
+#EXTINF:-1 tvg-name="Zoomoo HD" tvg-logo="http://imagecdn.sh:80/images/5dab2df694584172699383cdb1100c18.jpg" group-title="Canais | Infantis",Zoomoo HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/104935.ts
+#EXTINF:-1 tvg-name="Zoomoo SD" tvg-logo="http://imagecdn.sh:80/images/5dab2df694584172699383cdb1100c18.jpg" group-title="Canais | Infantis",Zoomoo SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/104936.ts
