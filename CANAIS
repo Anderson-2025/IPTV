@@ -1,26 +1,20 @@
 ####################################     EPG                        ####################################
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 ########################################################################################################
-#EXTINF:-1 tvg-name="AMC Break HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/200?cb=20220419183751" group-title="Canais | Filmes e Séries",AMC Break HD
+#EXTINF:-1 tvg-name="AMC Break HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/AMC_Break.svg" group-title="Canais | Filmes e Séries",AMC Break HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191202.ts
-#EXTINF:-1 tvg-name="AMC BREAK SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/200?cb=20220419183751" group-title="Canais | Filmes e Séries",AMC BREAK SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191201.ts
-#EXTINF:-1 tvg-name="AMC CRIME SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/AMC_Crime.svg/revision/latest/scale-to-width-down/300?cb=20220420114936" group-title="Canais | Filmes e Séries",AMC CRIME SD
+
+#EXTINF:-1 tvg-name="AMC Crime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/AMC_Crime.svg" group-title="Canais | Filmes e Séries",AMC Crime HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191200.ts
-#EXTINF:-1 tvg-name="AMC FHD" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71768.ts
-#EXTINF:-1 tvg-name="AMC FHD" tvg-logo="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC%2Blogo.png" group-title="Canais | Filmes e Séries",AMC FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191199.ts
-#EXTINF:-1 tvg-name="AMC FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71769.ts
+
 #EXTINF:-1 tvg-name="AMC HD" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71770.ts
+
 #EXTINF:-1 tvg-name="AMC HD" tvg-logo="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC%2Blogo.png" group-title="Canais | Filmes e Séries",AMC HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191198.ts
-#EXTINF:-1 tvg-name="AMC SD" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71771.ts
-#EXTINF:-1 tvg-name="AMC SD" tvg-logo="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC%2Blogo.png" group-title="Canais | Filmes e Séries",AMC SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191197.ts
+
+
+
 #EXTINF:-1 tvg-name="AXN FHD" tvg-logo="https://acstatic.co/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN FHD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71781.ts
 #EXTINF:-1 tvg-name="AXN FHD" tvg-logo="https://1.bp.blogspot.com/-eaIFUFMwW6Y/WDrqAy7WLPI/AAAAAAAAFac/ebV93SO38EkUak8XNhQCiITUZHNtWiSmQCLcB/s1600/AXN%2BHD%2Blogo.png" group-title="Canais | Filmes e Séries",AXN FHD
