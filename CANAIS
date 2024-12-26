@@ -28,14 +28,10 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71889.m3u8
 #EXTINF:-1 tvg-name="Fashion Tv" tvg-logo="https://i.imgur.com/bAOA1wS.png" group-title="Canais | Documentários",Fashion Tv
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191368.m3u8
 
-#EXTINF:-1 tvg-name="History 2 FHD" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | Documentários",H2 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72106.m3u8
-#EXTINF:-1 tvg-name="History 2 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | Documentários",H2 FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72107.m3u8
-#EXTINF:-1 tvg-name="History 2 HD" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | Documentários",H2 HD
+#EXTINF:-1 tvg-name="H2 HD" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | Documentários",History 2 HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72108.m3u8
-#EXTINF:-1 tvg-name="History 2 SD" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | Documentários",H2 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72109.m3u8
+
+
 #EXTINF:-1 tvg-name="HGTV FHD" tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV FHD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72142.m3u8
 #EXTINF:-1 tvg-name="HGTV FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV FHD [H265]
