@@ -13,32 +13,16 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71783.ts
 #EXTINF:-1 tvg-name="AXN Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="Canais | Filmes e Séries",AXN Movies HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191217.ts
 
-
-
-#EXTINF:-1 tvg-name="AXN WHITE FHD" tvg-logo="https://3.bp.blogspot.com/-t3GENrpvUc8/WDrqA3wE2uI/AAAAAAAAFak/s9-42gnbUGkqswvFSf0s60TnyuF3LiKawCLcB/s1600/AXN%2BWhite%2BHD%2Blogo.png" group-title="Canais | Filmes e Séries",AXN WHITE FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191215.ts
-#EXTINF:-1 tvg-name="AXN WHITE HD" tvg-logo="https://3.bp.blogspot.com/-t3GENrpvUc8/WDrqA3wE2uI/AAAAAAAAFak/s9-42gnbUGkqswvFSf0s60TnyuF3LiKawCLcB/s1600/AXN%2BWhite%2BHD%2Blogo.png" group-title="Canais | Filmes e Séries",AXN WHITE HD
+#EXTINF:-1 tvg-name="AXN White HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/AXN_White_logo_%282015%29.svg" group-title="Canais | Filmes e Séries",AXN White HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191214.ts
-#EXTINF:-1 tvg-name="AXN WHITE SD" tvg-logo="https://3.bp.blogspot.com/-t3GENrpvUc8/WDrqA3wE2uI/AAAAAAAAFak/s9-42gnbUGkqswvFSf0s60TnyuF3LiKawCLcB/s1600/AXN%2BWhite%2BHD%2Blogo.png" group-title="Canais | Filmes e Séries",AXN WHITE SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191213.ts
-#EXTINF:-1 tvg-name="BBC ENTERTAINMENT" tvg-logo="https://ewsat.com/img/BBC_ENTERTAINMENT.png" group-title="Canais | Filmes e Séries",BBC ENTERTAINMENT
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191209.ts
-#EXTINF:-1 tvg-name="Canal Brasil FHD" tvg-logo="https://acstatic.co/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71816.ts
-#EXTINF:-1 tvg-name="Canal Brasil FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71817.ts
-#EXTINF:-1 tvg-name="Canal Brasil HD" tvg-logo="https://acstatic.co/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil HD
+
+#EXTINF:-1 tvg-name="Canal Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/CanalBrasilOnAir.png" group-title="Canais | Filmes e Séries",Canal Brasil HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71818.ts
-#EXTINF:-1 tvg-name="Canal Brasil SD" tvg-logo="https://acstatic.co/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71819.ts
-#EXTINF:-1 tvg-name="Canal Sony FHD" tvg-logo="http://imagecdn.sh:80/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="Canais | Filmes e Séries",Canal Sony FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71824.ts
-#EXTINF:-1 tvg-name="Canal Sony FHD [H265]" tvg-logo="http://imagecdn.sh:80/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="Canais | Filmes e Séries",Canal Sony FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71825.ts
-#EXTINF:-1 tvg-name="Canal Sony HD" tvg-logo="http://imagecdn.sh:80/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="Canais | Filmes e Séries",Canal Sony HD
+
+#EXTINF:-1 tvg-name="Sony HD" tvg-logo="http://imagecdn.sh:80/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="Canais | Filmes e Séries",Sony HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71826.ts
-#EXTINF:-1 tvg-name="Canal Sony SD" tvg-logo="http://imagecdn.sh:80/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="Canais | Filmes e Séries",Canal Sony SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71827.ts
+
+
 #EXTINF:-1 tvg-name="Cinemax FHD" tvg-logo="https://acstatic.co/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax FHD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71833.ts
 #EXTINF:-1 tvg-name="Cinemax FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax FHD [H265]
