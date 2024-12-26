@@ -1,128 +1,122 @@
-#EXTINF:-1 tvg-name="AMC Break HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/AMC_Break.svg" group-title="Canais | Filmes e Séries",AMC Break HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191202.m3u8
-
-#EXTINF:-1 tvg-name="AMC Crime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/AMC_Crime.svg" group-title="Canais | Filmes e Séries",AMC Crime HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191200.m3u8
-
-#EXTINF:-1 tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Canais | Filmes e Séries",AMC HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71770.m3u8
-
-#EXTINF:-1 tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/AXN_logo_%282015%29.svg" group-title="Canais | Filmes e Séries",AXN HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71783.m3u8
-
-#EXTINF:-1 tvg-name="AXN Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="Canais | Filmes e Séries",AXN Movies HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191217.m3u8
-
-#EXTINF:-1 tvg-name="AXN White HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/AXN_White_logo_%282015%29.svg" group-title="Canais | Filmes e Séries",AXN White HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191214.m3u8
-
-#EXTINF:-1 tvg-name="Canal Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/CanalBrasilOnAir.png" group-title="Canais | Filmes e Séries",Canal Brasil HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71818.m3u8
-
-#EXTINF:-1 tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Canal_Sony.svg" group-title="Canais | Filmes e Séries",Canal Sony HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71826.m3u8
-
-#EXTINF:-1 tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1920px-Cinemax_2016.svg.png" group-title="Canais | Filmes e Séries",Cinemax HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71835.m3u8
-
-#EXTINF:-1 tvg-name="Cinemundo" tvg-logo="https://3.bp.blogspot.com/-mHEz-7oSIXw/VSene5r6G5I/AAAAAAAAEyE/4R-rWWL9nyo/s1600/Cinemundo%2Blogo%2B1.png" group-title="Canais | Filmes e Séries",Cinemundo
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191195.m3u8
-
-#EXTINF:-1 tvg-name="Film and Arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="Canais | Filmes e Séries",Film&Arts HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/104915.m3u8
-
-#EXTINF:-1 tvg-name="FX HD" tvg-logo="http://imagecdn.sh:80/images/d914a71d43ce7f0e02e8d8a55b33bf7b.png" group-title="Canais | Filmes e Séries",FX HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71968.m3u8
-
-#EXTINF:-1 tvg-name="HBO 2 HD" tvg-logo="https://acstatic.co/logos/canais/hbo2.png" group-title="Canais | Filmes e Séries",HBO 2 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72112.m3u8
-
-#EXTINF:-1 tvg-name="HBO Family HD" tvg-logo="https://acstatic.co/logos/canais/hbofamily.png" group-title="Canais | Filmes e Séries",HBO Family HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72116.m3u8
-
-#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://acstatic.co/logos/canais/hbo.png" group-title="Canais | Filmes e Séries",HBO HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72120.m3u8
-
-#EXTINF:-1 tvg-name="HBO Mundi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/HBO_Mundi.svg" group-title="Canais | Filmes e Séries",HBO Mundi HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72123.m3u8
-
-#EXTINF:-1 tvg-name="HBO Plus HD" tvg-logo="https://acstatic.co/logos/canais/hboplus.png" group-title="Canais | Filmes e Séries",HBO Plus HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72127.m3u8
-
-#EXTINF:-1 tvg-name="HBO Pop HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/HBO_Pop.svg" group-title="Canais | Filmes e Séries",HBO Pop HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72131.m3u8
-
-#EXTINF:-1 tvg-name="HBO Signature HD" tvg-logo="https://acstatic.co/logos/canais/hbosignature.png" group-title="Canais | Filmes e Séries",HBO Signature HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72136.m3u8
-
-#EXTINF:-1 tvg-name="HBO Xtreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg" group-title="Canais | Filmes e Séries",HBO Xtreme HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72140.m3u8
-
-#EXTINF:-1 tvg-name="Megapix HD" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72169.m3u8
-
-#EXTINF:-1 tvg-name="Paramount Channel HD" tvg-logo="https://acstatic.co/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72219.m3u8
-
-#EXTINF:-1 tvg-name="Space HD" tvg-logo="https://acstatic.co/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72319.m3u8
-
-#EXTINF:-1 tvg-name="Star Channel HD" tvg-logo="http://imagecdn.sh:80/images/8968238c6a30fb4370ba3f7d842c0de9.jpg" group-title="Canais | Filmes e Séries",Star Channel HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71938.m3u8
-
-#EXTINF:-1 tvg-name="Studio Universal HD" tvg-logo="https://acstatic.co/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72336.m3u8
-
-#EXTINF:-1 tvg-name="SYFY HD" tvg-logo="https://4.bp.blogspot.com/-KFpvGLvNb3Q/WDtdfKOQfEI/AAAAAAAAFkk/PXqW9GvFFdEvAHzpHiCy_cxWUTcb2-kVwCLcB/s1600/Syfy%2BHD%2Blogo.png" group-title="Canais | Filmes e Séries",SYFY HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191220.m3u8
-
-#EXTINF:-1 tvg-name="Telecine Action HD" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Filmes e Séries",Telecine Action HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72348.m3u8
-
-#EXTINF:-1 tvg-name="Telecine Cult HD" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" group-title="Canais | Filmes e Séries",Telecine Cult HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72352.m3u8
-
-#EXTINF:-1 tvg-name="Telecine Fun HD" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" group-title="Canais | Filmes e Séries",Telecine Fun HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72356.m3u8
-
-#EXTINF:-1 tvg-name="Telecine Pipoca HD" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | Filmes e Séries",Telecine Pipoca HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72360.m3u8
-
-#EXTINF:-1 tvg-name="Telecine Premium HD" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | Filmes e Séries",Telecine Premium HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72364.m3u8
-
-#EXTINF:-1 tvg-name="Telecine Touch HD" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Filmes e Séries",Telecine Touch HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72368.m3u8
-
-#EXTINF:-1 tvg-name="TNT HD" tvg-logo="https://acstatic.co/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72378.m3u8
-
-#EXTINF:-1 tvg-name="TNT Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/634px-Logo_TNT_Novelas.png" group-title="Canais | Filmes e Séries",TNT Novelas HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72344.m3u8
-
-#EXTINF:-1 tvg-name="TNT Series HD" tvg-logo="https://acstatic.co/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72383.m3u8
-
-#EXTINF:-1 tvg-name="TV CINE ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png" group-title="Canais | Filmes e Séries",TV CINE ACTION HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191183.m3u8
-
-#EXTINF:-1 tvg-name="TV CINE EDITION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" group-title="Canais | Filmes e Séries",TV CINE EDITION HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191178.m3u8
-
-#EXTINF:-1 tvg-name="TV CINE EMOTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" group-title="Canais | Filmes e Séries",TV CINE EMOTION HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191181.m3u8
-
-#EXTINF:-1 tvg-name="TV CINE TOP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" group-title="Canais | Filmes e Séries",TV CINE TOP HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191175.m3u8
-
-#EXTINF:-1 tvg-name="TVCINE + HD" tvg-logo="https://www.tvcine.pt/TVCine-PLUS-logo.png" group-title="Canais | Filmes e Séries",TVCINE + HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191172.m3u8
-
-#EXTINF:-1 tvg-name="Universal TV HD" tvg-logo="https://acstatic.co/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72421.m3u8
-
-#EXTINF:-1 tvg-name="USA Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/USA_Network_logo_%282006%29.svg" group-title="Canais | Filmes e Séries",USA Network HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72340.m3u8
-
-#EXTINF:-1 tvg-name="Warner Channel HD" tvg-logo="https://acstatic.co/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72433.m3u8
+#EXTINF:-1 tvg-name="Animal Planet FHD" tvg-logo="http://imagecdn.sh:80/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71772.m3u8
+#EXTINF:-1 tvg-name="Animal Planet FHD [H265]" tvg-logo="http://imagecdn.sh:80/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71773.m3u8
+#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="http://imagecdn.sh:80/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71775.m3u8
+#EXTINF:-1 tvg-name="Animal Planet SD" tvg-logo="http://imagecdn.sh:80/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71776.m3u8
+#EXTINF:-1 tvg-name="Arte 1 FHD" tvg-logo="https://acstatic.co/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71777.m3u8
+#EXTINF:-1 tvg-name="Arte 1 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71778.m3u8
+#EXTINF:-1 tvg-name="Arte 1 HD" tvg-logo="https://acstatic.co/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71779.m3u8
+#EXTINF:-1 tvg-name="Arte 1 SD" tvg-logo="https://acstatic.co/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71780.m3u8
+#EXTINF:-1 tvg-name="Curta FHD" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Canais | Documentários",Curta FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71855.m3u8
+#EXTINF:-1 tvg-name="Curta FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Canais | Documentários",Curta FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71856.m3u8
+#EXTINF:-1 tvg-name="Curta HD" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Canais | Documentários",Curta HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71857.m3u8
+#EXTINF:-1 tvg-name="Curta SD" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Canais | Documentários",Curta SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71858.m3u8
+#EXTINF:-1 tvg-name="CANAL HISTÓRIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Canais | Documentários",CANAL HISTÓRIA SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191366.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel FHD" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71862.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71863.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71865.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/kpeMjrn.png" group-title="Canais | Documentários",DISCOVERY CHANNEL HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191363.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel SD" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71866.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/ID/logo.png" group-title="Canais | Documentários",DISCOVERY ID
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191367.m3u8
+#EXTINF:-1 tvg-name="Discovery Science FHD" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71875.m3u8
+#EXTINF:-1 tvg-name="Discovery Science FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71876.m3u8
+#EXTINF:-1 tvg-name="Discovery Science HD" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71877.m3u8
+#EXTINF:-1 tvg-name="Discovery Science SD" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71878.m3u8
+#EXTINF:-1 tvg-name="Discovery Theater FHD" tvg-logo="https://acstatic.co/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71879.m3u8
+#EXTINF:-1 tvg-name="Discovery Theater FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71880.m3u8
+#EXTINF:-1 tvg-name="Discovery Theater HD" tvg-logo="https://acstatic.co/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71881.m3u8
+#EXTINF:-1 tvg-name="Discovery Theater SD" tvg-logo="https://acstatic.co/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71882.m3u8
+#EXTINF:-1 tvg-name="Discovery World FHD" tvg-logo="https://acstatic.co/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71887.m3u8
+#EXTINF:-1 tvg-name="Discovery World FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71888.m3u8
+#EXTINF:-1 tvg-name="Discovery World HD" tvg-logo="https://acstatic.co/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71889.m3u8
+#EXTINF:-1 tvg-name="Discovery World SD" tvg-logo="https://acstatic.co/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71890.m3u8
+#EXTINF:-1 tvg-name="FASHION TV HD" tvg-logo="https://i.imgur.com/bAOA1wS.png" group-title="Canais | Documentários",FASHION TV HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191368.m3u8
+#EXTINF:-1 tvg-name="H2 FHD" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | Documentários",H2 FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72106.m3u8
+#EXTINF:-1 tvg-name="H2 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | Documentários",H2 FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72107.m3u8
+#EXTINF:-1 tvg-name="H2 HD" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | Documentários",H2 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72108.m3u8
+#EXTINF:-1 tvg-name="H2 SD" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | Documentários",H2 SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72109.m3u8
+#EXTINF:-1 tvg-name="HGTV FHD" tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72142.m3u8
+#EXTINF:-1 tvg-name="HGTV FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72143.m3u8
+#EXTINF:-1 tvg-name="HGTV HD" tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72144.m3u8
+#EXTINF:-1 tvg-name="HGTV SD" tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72145.m3u8
+#EXTINF:-1 tvg-name="History FHD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | Documentários",History FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72146.m3u8
+#EXTINF:-1 tvg-name="History FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | Documentários",History FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72147.m3u8
+#EXTINF:-1 tvg-name="History HD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | Documentários",History HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72148.m3u8
+#EXTINF:-1 tvg-name="History SD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | Documentários",History SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72149.m3u8
+#EXTINF:-1 tvg-name="ID FHD" tvg-logo="http://imagecdn.sh:80/images/ae050ba13a405e34c4192a0da5376574.png" group-title="Canais | Documentários",ID FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72150.m3u8
+#EXTINF:-1 tvg-name="ID FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/id.png" group-title="Canais | Documentários",ID FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72151.m3u8
+#EXTINF:-1 tvg-name="ID HD" tvg-logo="http://imagecdn.sh:80/images/ae050ba13a405e34c4192a0da5376574.png" group-title="Canais | Documentários",ID HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72152.m3u8
+#EXTINF:-1 tvg-name="ID INVESTIGATION DISCOVERY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png/200px-Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="Canais | Documentários",ID INVESTIGATION DISCOVERY HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191364.m3u8
+#EXTINF:-1 tvg-name="ID SD" tvg-logo="http://imagecdn.sh:80/images/ae050ba13a405e34c4192a0da5376574.png" group-title="Canais | Documentários",ID SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72153.m3u8
+#EXTINF:-1 tvg-name="National Geographic FHD" tvg-logo="http://imagecdn.sh:80/images/9a5e6af569e7b3600bad7c9dcf77a721.png" group-title="Canais | Documentários",National Geographic FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72196.m3u8
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191362.m3u8
+#EXTINF:-1 tvg-name="National Geographic FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72197.m3u8
+#EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="http://imagecdn.sh:80/images/9a5e6af569e7b3600bad7c9dcf77a721.png" group-title="Canais | Documentários",National Geographic HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72199.m3u8
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191361.m3u8
+#EXTINF:-1 tvg-name="National Geographic SD" tvg-logo="http://imagecdn.sh:80/images/9a5e6af569e7b3600bad7c9dcf77a721.png" group-title="Canais | Documentários",National Geographic SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72200.m3u8
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191360.m3u8
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC WILD FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191359.m3u8
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC WILD HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191358.m3u8
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD SD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC WILD SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191357.m3u8
+#EXTINF:-1 tvg-name="ODISSEIA HD" tvg-logo="https://i.imgur.com/OeQhRFQ.png" group-title="Canais | Documentários",ODISSEIA HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191365.m3u8
+#EXTINF:-1 tvg-name="TRAVELXP HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9CiON_cIcTf2VhWhHl-zGK1vrXJKn_hMr5psVDI6AWw&amp;s" group-title="Canais | Documentários",TRAVELXP HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191356.m3u8
