@@ -1,7 +1,7 @@
 ####################################     EPG                        ####################################
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 ########################################################################################################
-#EXTINF:-1 tvg-name="AMC BREAK HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/200?cb=20220419183751" group-title="Canais | Filmes e Séries",AMC BREAK HD
+#EXTINF:-1 tvg-name="AMC Break HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/200?cb=20220419183751" group-title="Canais | Filmes e Séries",AMC Break HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191202.ts
 #EXTINF:-1 tvg-name="AMC BREAK SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/200?cb=20220419183751" group-title="Canais | Filmes e Séries",AMC BREAK SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191201.ts
