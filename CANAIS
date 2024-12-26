@@ -118,49 +118,19 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191175.ts
 #EXTINF:-1 tvg-name="TVCINE + HD" tvg-logo="https://www.tvcine.pt/TVCine-PLUS-logo.png" group-title="Canais | Filmes e Séries",TVCINE + HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191172.ts
 
-#EXTINF:-1 tvg-name="Universal TV FHD" tvg-logo="https://acstatic.co/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72419.ts
-#EXTINF:-1 tvg-name="Universal TV FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72420.ts
 #EXTINF:-1 tvg-name="Universal TV HD" tvg-logo="https://acstatic.co/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72421.ts
-#EXTINF:-1 tvg-name="Universal TV SD" tvg-logo="https://acstatic.co/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72422.ts
-#EXTINF:-1 tvg-name="Warner Channel FHD" tvg-logo="https://acstatic.co/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72431.ts
-#EXTINF:-1 tvg-name="Warner Channel FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72432.ts
+
+#EXTINF:-1 tvg-name="USA Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/USA_Network_logo_%282006%29.svg" group-title="Canais | Filmes e Séries",USA Network HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72340.ts
+
 #EXTINF:-1 tvg-name="Warner Channel HD" tvg-logo="https://acstatic.co/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72433.ts
-#EXTINF:-1 tvg-name="Warner Channel SD" tvg-logo="https://acstatic.co/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72434.ts
 
 
 
-#EXTINF:-1 tvg-name="Disney + 1 FHD" tvg-logo="http://imagecdn.sh:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Filmes e Séries",Disney + 1 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/142032.ts
-#EXTINF:-1 tvg-name="Disney + 1 HD" tvg-logo="http://imagecdn.sh:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Filmes e Séries",Disney + 1 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/128347.ts
-#EXTINF:-1 tvg-name="Disney + 1 SD" tvg-logo="http://imagecdn.sh:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Filmes e Séries",Disney + 1 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/142033.ts
-#EXTINF:-1 tvg-name="Disney + 2 FHD" tvg-logo="http://imagecdn.sh:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Filmes e Séries",Disney + 2 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/142034.ts
-#EXTINF:-1 tvg-name="Disney + 2 HD" tvg-logo="http://imagecdn.sh:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Filmes e Séries",Disney + 2 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/129345.ts
-#EXTINF:-1 tvg-name="Disney + 2 SD" tvg-logo="http://imagecdn.sh:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Filmes e Séries",Disney + 2 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/142035.ts
-#EXTINF:-1 tvg-name="Disney + 3 FHD" tvg-logo="http://imagecdn.sh:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Filmes e Séries",Disney + 3 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/142036.ts
-#EXTINF:-1 tvg-name="Disney + 3 HD" tvg-logo="http://imagecdn.sh:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Filmes e Séries",Disney + 3 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/129346.ts
-#EXTINF:-1 tvg-name="Disney + 3 SD" tvg-logo="http://imagecdn.sh:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Filmes e Séries",Disney + 3 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/142037.ts
-#EXTINF:-1 tvg-name="Disney + 4 FHD" tvg-logo="http://imagecdn.sh:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Filmes e Séries",Disney + 4 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/142038.ts
-#EXTINF:-1 tvg-name="Disney + 4 HD" tvg-logo="http://imagecdn.sh:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Filmes e Séries",Disney + 4 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/129347.ts
-#EXTINF:-1 tvg-name="Disney + 4 SD" tvg-logo="http://imagecdn.sh:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Filmes e Séries",Disney + 4 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/142039.ts
+
+
 #EXTINF:-1 tvg-name="HBO 2 FHD" tvg-logo="https://acstatic.co/logos/canais/hbo2.png" group-title="Canais | Filmes e Séries",HBO 2 FHD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72110.ts
 #EXTINF:-1 tvg-name="HBO 2 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/hbo2.png" group-title="Canais | Filmes e Séries",HBO 2 FHD [H265]
@@ -226,11 +196,3 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72140.ts
 #EXTINF:-1 tvg-name="HBO Xtreme SD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Filmes e Séries",HBO Xtreme SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72141.ts
 
-#EXTINF:-1 tvg-name="USA Network FHD" tvg-logo="https://acstatic.co/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",USA Network FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72338.ts
-#EXTINF:-1 tvg-name="USA Network FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",USA Network FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72339.ts
-#EXTINF:-1 tvg-name="USA Network HD" tvg-logo="https://acstatic.co/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",USA Network HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72340.ts
-#EXTINF:-1 tvg-name="USA Network SD" tvg-logo="https://acstatic.co/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",USA Network SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72341.ts
