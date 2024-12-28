@@ -1,235 +1,69 @@
-#EXTINF:-1 tvg-name="A BOLA TV FHD" tvg-logo="https://i.imgur.com/4DzM6Dw.png" group-title="Canais | Esportes",A BOLA TV FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191297.m3u8
-#EXTINF:-1 tvg-name="A BOLA TV HD" tvg-logo="https://i.imgur.com/4DzM6Dw.png" group-title="Canais | Esportes",A BOLA TV HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191296.m3u8
-#EXTINF:-1 tvg-name="A BOLA TV SD" tvg-logo="https://i.imgur.com/4DzM6Dw.png" group-title="Canais | Esportes",A BOLA TV SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191295.m3u8
-#EXTINF:-1 tvg-name="ADVANCE SIC FHD" tvg-logo="https://images.impresa.pt/impresa/2020-12-28-600x338_advnce.png/original" group-title="Canais | Esportes",ADVANCE SIC FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191315.m3u8
-#EXTINF:-1 tvg-name="Band Sports FHD" tvg-logo="https://acstatic.co/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71801.m3u8
-#EXTINF:-1 tvg-name="Band Sports FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71802.m3u8
 #EXTINF:-1 tvg-name="Band Sports HD" tvg-logo="https://acstatic.co/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71803.m3u8
-#EXTINF:-1 tvg-name="Band Sports SD" tvg-logo="https://acstatic.co/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71804.m3u8
-#EXTINF:-1 tvg-name="Brasileirao Serie C 1 FHD" tvg-logo="http://imagecdn.sh:80/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Esportes",Brasileirao Serie C 1 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/157407.m3u8
-#EXTINF:-1 tvg-name="Brasileirao Serie C 1 HD" tvg-logo="http://imagecdn.sh:80/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Esportes",Brasileirao Serie C 1 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/157408.m3u8
-#EXTINF:-1 tvg-name="Brasileirao Serie C 1 SD" tvg-logo="http://imagecdn.sh:80/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Esportes",Brasileirao Serie C 1 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/157409.m3u8
-#EXTINF:-1 tvg-name="Brasileirao Serie C 2 FHD" tvg-logo="http://imagecdn.sh:80/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Esportes",Brasileirao Serie C 2 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/157410.m3u8
-#EXTINF:-1 tvg-name="Brasileirao Serie C 2 HD" tvg-logo="http://imagecdn.sh:80/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Esportes",Brasileirao Serie C 2 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/157411.m3u8
-#EXTINF:-1 tvg-name="Brasileirao Serie C 2 SD" tvg-logo="http://imagecdn.sh:80/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Esportes",Brasileirao Serie C 2 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/157412.m3u8
-#EXTINF:-1 tvg-name="Brasileirao Serie C 3 FHD" tvg-logo="http://imagecdn.sh:80/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Esportes",Brasileirao Serie C 3 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/157413.m3u8
-#EXTINF:-1 tvg-name="Brasileirao Serie C 3 HD" tvg-logo="http://imagecdn.sh:80/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Esportes",Brasileirao Serie C 3 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/157414.m3u8
-#EXTINF:-1 tvg-name="Brasileirao Serie C 3 SD" tvg-logo="http://imagecdn.sh:80/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Esportes",Brasileirao Serie C 3 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/157415.m3u8
-#EXTINF:-1 tvg-name="BTV 4K" tvg-logo="https://1.bp.blogspot.com/-oZKppN3ouvk/WDrqBTKfm2I/AAAAAAAAFa0/XqtKJP8Ld3gXPJfCi43-7evKAMkf5ooJgCLcB/s1600/BTV%2Blogo.png" group-title="Canais | Esportes",BTV 4K
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191273.m3u8
-#EXTINF:-1 tvg-name="BTV FHD" tvg-logo="https://1.bp.blogspot.com/-bmo-eSDKLm0/WDrqBACM5GI/AAAAAAAAFas/uDRGh2C-tZ0oRPUufWBWVRtVHnHBJoduwCLcB/s1600/BTV%2BHD%2Blogo.png" group-title="Canais | Esportes",BTV FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191272.m3u8
+
 #EXTINF:-1 tvg-name="BTV HD" tvg-logo="https://1.bp.blogspot.com/-bmo-eSDKLm0/WDrqBACM5GI/AAAAAAAAFas/uDRGh2C-tZ0oRPUufWBWVRtVHnHBJoduwCLcB/s1600/BTV%2BHD%2Blogo.png" group-title="Canais | Esportes",BTV HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191271.m3u8
-#EXTINF:-1 tvg-name="BTV SD" tvg-logo="https://1.bp.blogspot.com/-oZKppN3ouvk/WDrqBTKfm2I/AAAAAAAAFa0/XqtKJP8Ld3gXPJfCi43-7evKAMkf5ooJgCLcB/s1600/BTV%2Blogo.png" group-title="Canais | Esportes",BTV SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191270.m3u8
-#EXTINF:-1 tvg-name="CACAVISION SD" tvg-logo="https://i.imgur.com/i0IDqQd.png" group-title="Canais | Esportes",CACAVISION SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191313.m3u8
-#EXTINF:-1 tvg-name="CAMPO PEQUENO TV HD" tvg-logo="http://www.campopequeno.com/img/campopequenotv_logo.png" group-title="Canais | Esportes",CAMPO PEQUENO TV HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191309.m3u8
-#EXTINF:-1 tvg-name="CANAL 11 FHD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="Canais | Esportes",CANAL 11 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191300.m3u8
-#EXTINF:-1 tvg-name="CANAL 11 HD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="Canais | Esportes",CANAL 11 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191299.m3u8
-#EXTINF:-1 tvg-name="CANAL 11 SD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="Canais | Esportes",CANAL 11 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191298.m3u8
-#EXTINF:-1 tvg-name="CAÇA & PESCA FHD" tvg-logo="https://i.imgur.com/xpqAcSz.png" group-title="Canais | Esportes",CAÇA & PESCA FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191312.m3u8
-#EXTINF:-1 tvg-name="Combate FHD" tvg-logo="https://acstatic.co/logos/canais/combate.png" group-title="Canais | Esportes",Combate FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71842.m3u8
-#EXTINF:-1 tvg-name="COMBATE FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="Canais | Esportes",COMBATE FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191320.m3u8
-#EXTINF:-1 tvg-name="Combate FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/combate.png" group-title="Canais | Esportes",Combate FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71843.m3u8
+
 #EXTINF:-1 tvg-name="Combate HD" tvg-logo="https://acstatic.co/logos/canais/combate.png" group-title="Canais | Esportes",Combate HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71845.m3u8
-#EXTINF:-1 tvg-name="COMBATE HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="Canais | Esportes",COMBATE HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191319.m3u8
-#EXTINF:-1 tvg-name="Combate SD" tvg-logo="https://acstatic.co/logos/canais/combate.png" group-title="Canais | Esportes",Combate SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71846.m3u8
-#EXTINF:-1 tvg-name="COMBATE SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="Canais | Esportes",COMBATE SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191318.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eleven_Sport_1_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222232816" group-title="Canais | Esportes",ELEVEN SPORTS 1 4K
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191279.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eleven_Sport_1_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222232816" group-title="Canais | Esportes",ELEVEN SPORTS 1 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191278.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eleven_Sport_1_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222232816" group-title="Canais | Esportes",ELEVEN SPORTS 1 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191277.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eleven_Sport_1_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222232816" group-title="Canais | Esportes",ELEVEN SPORTS 1 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191276.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Eleven_Sports_2_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222233012" group-title="Canais | Esportes",ELEVEN SPORTS 2 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191282.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Eleven_Sports_2_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222233012" group-title="Canais | Esportes",ELEVEN SPORTS 2 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191281.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Eleven_Sports_2_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222233012" group-title="Canais | Esportes",ELEVEN SPORTS 2 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191280.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Eleven_Sports_3_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222233738" group-title="Canais | Esportes",ELEVEN SPORTS 3 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191285.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Eleven_Sports_3_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222233738" group-title="Canais | Esportes",ELEVEN SPORTS 3 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191284.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Eleven_Sports_3_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222233738" group-title="Canais | Esportes",ELEVEN SPORTS 3 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191283.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Eleven_Sports_4_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20210204144907" group-title="Canais | Esportes",ELEVEN SPORTS 4 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191288.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Eleven_Sports_4_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20210204144907" group-title="Canais | Esportes",ELEVEN SPORTS 4 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191287.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Eleven_Sports_4_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20210204144907" group-title="Canais | Esportes",ELEVEN SPORTS 4 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191286.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 5 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eleven_Sports_5.svg/revision/latest/scale-to-width-down/250?cb=20210210163233" group-title="Canais | Esportes",ELEVEN SPORTS 5 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191291.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eleven_Sports_5.svg/revision/latest/scale-to-width-down/250?cb=20210210163233" group-title="Canais | Esportes",ELEVEN SPORTS 5 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191290.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 5 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eleven_Sports_5.svg/revision/latest/scale-to-width-down/250?cb=20210210163233" group-title="Canais | Esportes",ELEVEN SPORTS 5 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191289.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eleven_Sports_6.svg/revision/latest/scale-to-width-down/250?cb=20210210163412" group-title="Canais | Esportes",ELEVEN SPORTS 6 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191294.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eleven_Sports_6.svg/revision/latest/scale-to-width-down/250?cb=20210210163412" group-title="Canais | Esportes",ELEVEN SPORTS 6 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191293.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eleven_Sports_6.svg/revision/latest/scale-to-width-down/250?cb=20210210163412" group-title="Canais | Esportes",ELEVEN SPORTS 6 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191292.m3u8
-#EXTINF:-1 tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/7u2MNJb.png" group-title="Canais | Esportes",EUROSPORT 1 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191301.m3u8
-#EXTINF:-1 tvg-name="EUROSPORT 2 HD" tvg-logo="https://i.imgur.com/AniJkHa.png" group-title="Canais | Esportes",EUROSPORT 2 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191302.m3u8
-#EXTINF:-1 tvg-name="F1 OFICIAL" tvg-logo="https://i.ibb.co/VHsdsPb/62073af08abc75d103d5bc6dfeb54729.png" group-title="Canais | Esportes",F1 OFICIAL
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191237.m3u8
-#EXTINF:-1 tvg-name="Fight Box HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="Canais | Esportes",Fight Box HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191322.m3u8
-#EXTINF:-1 tvg-name="Fight Network" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQEA8NDQ8PDw0NDw0NDQ0NDQ8NDQ0NFREWFhURFRUYHSggGBolGxUVITEhJSorLi4uFx8zODMsNygtLisBCgoKBQUFDgUFDisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAOEA4QMBIgACEQEDEQH/xAAcAAABBAMBAAAAAAAAAAAAAAAAAQIDBAYHCAX/xABAEAACAgACBQgHBwMDBQEAAAAAAQIDBBEFBhJzshMhMTRBUXGxByIkMmFywTNCUoGRodF0gvAjU2IWJUNkkhT/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A0aAAAAAqQAkOURYxJIxAaoj4xJIwJIwAjUB6rJVAlhS30JvwWYFdQHqBOoD1ACvsBsFrY/zINgCrsfANgtbAnJgVHAa4FxwGOsCnKAxwLkoDJQApSgMcS5KBE4AVXEayxKJHKIEQCtCAAAAAAAAAAqAEiSMQiiWMQCKJYRLGCwNlrUaq52SfZCOZmOiPR5iJ5SxMo0weT2VnOxr49iAwyMD2dFat4rEc9VMtn8c/Uiv1Nn6K1RwmH541qya+/b6z/Q96MMsklkl0JcyS+CAwTRXo8hHKWKs2n08nX6sfzfaZdgNFUUuuNVUIrlKk/VTbW0ukvbIRXrV72riQGUaQ1N0ffnyuEqbeebjHZl+qMX0j6H8DPN0TtpfZlLbivyZsYUDSWkPQ5iY5vD31WpfdknXJmNaQ9H+kqeeWFnKK+9U42L+TpFoMgOUMRo+2vmtqnB904OJX5P8AzM6xxGDrsWVlcJp/jipHg6Q1E0ddm5YaEW+2vOHkBzW6xkoG8dIeiHDSzeHvsrfYpJTX8mMaQ9EeOhm6bKLkuhbTrl+6A1jKsjdZlWktTdIUZ8rhLcl0yhHlF+WR4NtEotxlFxkuZxkmmvFAedOsilAvSrIpVgUZwIpIuzgQSiBTkhjRZkvgQyQEQDmhoAAAAqRJGI2KJYRAnwlHKThWuZzlGCfc28jaWhvR3h68pYiTvmulJbFafdl0s1xoWPtFG+q4kdAQiBXwWCrqjs1Vxgv+KSLSiKkPSAakOQ5RF2QGZCL3q97XxIkyGtetXva+JAbCARCgAAAAAAAmQZCgA2UfJmgvSJouyzSeKcIpR2oZNvJe6jf0jUOvD9uv8YcKAwSvVxc3KWflBZ5/mZlT6IYYjD130YqVc7IKWxbXtwz8U0eYmbk1X6nh92vqBo7SXok0nXm61TfHsdU2pf8AzIxTSWquOoz5bCXR+Ow2v2zOskhJwT6Un486A4wtqa5pJp9zTXmQTidY65aBwlmExVk8NS5woslGfJx2k0unM5ScfICrNEbLE4kUkBGAuQASxRPCIyESetAX9Cw9oo31XEjf0UaG0IvaMPvquJG/YxAFEeogoj1EBuQuQ/ZDIBmQyS9ave18SJshs161e8r4kBnSFAAAAAAAAAAAAEkag146/f4w4Ubfl/JqHXnr9/8AZwoDwkbl1W6nh92jTKNzardTw+7QHrgAAeXrR1LF7i3hZyLOJ13rKvY8VuLeFnJNkQKc0QTRbnErzQEOyA7IAJ60WK0RVosVoD0tBx9ow++r4kb8UTRGgo+0YffVcSN9xQBGI9RFihyiA3IMh+QZAMaI7emveV8SJ8iK5c9e8r4kBmyFEQoAAABFfYoxlN9EU5PL4I8GjXHCS+9KPjE9rH/ZW/JPhNMbD7u19nxA27Tp3Cz926H5vJl2vFVy92cH4STNLf50IFiHHob8VJoDdrfNzGo9eV7df/ZwoqV6ZxEfcusj3eu2VMViZ2ydlsnOyWW1J9LyQECRuTVbqeH3a+ppw3Hqr1PD7tfUD1wAAPO1j6nitxbws5NsidZ6w9UxO4t4GcoWRApWIrTRcsRVsQEIDsgAnrRZrRBWi1WgPU0AvacPvquJG+0jQ+r69pw++r4kb8igEih6QqQ7IBmQZD8gyAZkRXr3N7VxIsEOI+5vauIDMUKJEUAAAAr437Oz5J8JqK5+b8zbuO+zs+SfkadxEu/PpfmBFYyvKQs5/H9yNsAbEzGthmA83Hqr1PD7tfU01mbk1TfsWH+RfUD2AAAPP1g6pidxbws5Usj9TqvT/VcTuLeFnK9q+oFGxFWxF2xFWxAQZCD8gAmr7CzUVay3UB7Grq9pw++r4kb8SNC6udZw2+q4kb9SAEhyQqQqQDchMiTIMgI8iHEr3N7VxFnIgxK+z3tPGgMtQokRQAAABHEgngq5e9XB+MEWAA86zQeFl72Hqef/AARSt1RwMunDxXg2j3gAxa3UTBPohNfLNmF63asSwb5Wvanhpc203m4S7EzbmRBjMNC2EqrIqUJpxlF9qA0PGRufVLqWG+RfU1drVoCeBtyybonz1T7Mvwt9jNoaoP2LDfIvqB7QAAFDT/VcRubeFnLF31Z1RpxezYjc28LOWLQKVpVsLdpVsAiAMwAkrLVRVrLNQHuat9aw2+r4joBI5/1ZXteG31fEdBZAGQuQuQuQDchMh+QmQDcivi17m9q4kWcivjFzQ3tXEgMrX8+Yoi/nzFAAAAAAAAAAAAAAKGmNG14mqdFsc4zWXxjLsaG6DwLw9FdEpbTrWztL7yTPRAAAAAo6a6viNzbws5YtOp9NdXxG5t4Wcr3doFO4rWFm0q2ARgIAD62Wq2U62Wa2B7+q/W8Lv6uJHQyXmznfVV+2YTf1cSOi0gESFyFFQDMgHsTICMr4v7m9p40WmitjeiG9p40BlERRIigAAAABFfbsxlPsinLLwWZiS1+p/wBqzt7gMyzEzMP/AOv6P9q39hf+v8P/ALdn6IDMMwPA0LrTRipOuO1CfSlPJbXge8gFAAAAAAKWmur4jc28LOVLu06r0z1e/c28LOUrnzv8wK1hVsLFjKtjAYA3MAFrZZrZTrZZrYGQ6pv23Cb+riR0ejmzVF+3YP8AqKeJHSiAAyHIAGsQcxAGsqY/ohvaeNFxlTSHRDe1cSAydCiL+fMUAAAAr45f6VnyT8jTU6ud+L8zcuN+zs+Sfkansr6fF+YHnOsbsfAuSrIpRAhqk4yUovZlF5prmaNm6qayLExVdrSxEUk10bfxRrVxFqnKElODcZwe1Fp5NMDdqYpjuq+sUcTHYm8r4rni+ma713mRIAAAApaY6vfubeFnJ1753+fmdY6X6vfubeFnJV7534vzAgmyrYyexlabAbmA0AErkWK5FSLJ4MDI9Tpe3YP+op4kdMI5k1Lft+CX/sVcSOnUAIAQoDWIOYjAaynpDohvauJFxlPSHRDe1cSAydfyKIv58xQAAACDGe5P5JeRrS2np8WbJx09muyX4YSf7GvsPdC6O3W81m812p586YHnTpIJ1HrzqK8qvgB5coEcoHpSqIpVAU6bJVyjZBuM4tNNd5svVnWGOKioyyjdFetH8XxRrt1C4ec6pxsrezKLzi19QNxAeLq5pyOJjsy9W6KW3DvX4ke0BT0v1e/dWcLORbpc78WddaW+wv3VnCzj+6XPLxYEdkitJkk5EE2AuYEeYoDYsmhIrokhIDI9Sn/3DBf1NXEdRI5a1If/AHHA/wBTV5nUwAAAAjEFYgDSppHohvquNFsqaQ6Ib2njQGTRFEQoAAABT0t9jdurOE0Po/Sk6J7UM2m3tRb5pc/+c5vjS7/0L91ZwnN87Od+MvMDaGj8dXiIcpW+3KUe2Eu5/wAks4dhrHR+lbKJqyt/NF9E13NGYUa5YWSW3ykJP3lsJxT+Dz6APYnWRSgVoaxYOXRfH+5OJNHSFEvdurf96ASVZG6y0pwfuyi/CSYjgBXw1k6pxsrezOL5ms/37zYWgdMxxEe62GW3D6rvRgUoD8PdKuasreUo9D+jA2LpZ/6F+6s4WcdXS534vzOsqtLQxGFvy9WyNNinB9j2XzrvRyRfL1pfNLzYDJyIZMWTI2wABAABUxAA9fVrSEMPi8NibM3XRdCyais5bKfYjoDR/pP0Vbl7RyTfZdBwyOaoskjIDrXBabwtyzpxFM8/w2RL6efOufwOQa7GueLaffFuL/Y9nR+s2Noy5HF3xS7OUbX7gdSsbmaBwHpT0nXzTsruXbytaz/VZGRYD0xT5liMJF98qbHH9mBttlPSPuw3tXEjEMD6UtH2ZcpytL/5wzX6o9W7WzAWwjKvFVNRsqk/WykltLPmYGwV/PmKYhiPSPouGeeJjJrsim3+x5t/pb0dH3eVn3ZQyz/UDYImZq3EemXDr7PDWS+aSiediPTLZ/48JBfGU2wNraY6vfurOE5knb0+L8zL8f6V8bbGdarohGcZReUW3k1kYI7el94Fl2jHaVnYNdgE8rSKVniQSsI3YBY//VOPuzkvCT/klhpvEw92+xf3s82UyKUgPehrfjYdF7fzRjIsV+kDGR95VTy74ZN/oYpKZDKQGeV+k26O17PBNxlDahZJczWTzRr+yebb723++f1CUiJsAkxoAAAAAAAAAKmIAEsZEkZFdMcpAWlIljMqKQ6MwLsZkis/zpKamPUwLimPUymrBysAt8oLypV5QOUAtcqJyhW2xNsCzyg12FdzGuwCaUxkpkLsGOYEspkUpEcpjHIB7kRSYjkMbAVsaAAAAAAAAAAAAAAAAKhAAfEegACRDogAD0OQAA4AAAAAARjJCAA1jGAAMkNYAAwQAAAAAAAAAAAA/9k=" group-title="Canais | Esportes",Fight Network
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191323.m3u8
-#EXTINF:-1 tvg-name="Copa do Brasil 1 FHD" tvg-logo="http://imagecdn.sh:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Esportes",Copa do Brasil 1 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/150498.m3u8
-#EXTINF:-1 tvg-name="Copa do Brasil 1 HD" tvg-logo="http://imagecdn.sh:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Esportes",Copa do Brasil 1 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/150499.m3u8
-#EXTINF:-1 tvg-name="Copa do Brasil 1 SD" tvg-logo="http://imagecdn.sh:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Esportes",Copa do Brasil 1 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/150500.m3u8
-#EXTINF:-1 tvg-name="Copa do Brasil 2 FHD" tvg-logo="http://imagecdn.sh:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Esportes",Copa do Brasil 2 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/150501.m3u8
-#EXTINF:-1 tvg-name="Copa do Brasil 2 HD" tvg-logo="http://imagecdn.sh:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Esportes",Copa do Brasil 2 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/150502.m3u8
-#EXTINF:-1 tvg-name="Copa do Brasil 2 SD" tvg-logo="http://imagecdn.sh:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Esportes",Copa do Brasil 2 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/150503.m3u8
-#EXTINF:-1 tvg-name="ESPN 2 FHD" tvg-logo="https://acstatic.co/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71919.m3u8
-#EXTINF:-1 tvg-name="ESPN 2 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2 FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71920.m3u8
+
 #EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="https://acstatic.co/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2 HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71922.m3u8
-#EXTINF:-1 tvg-name="ESPN 2 SD" tvg-logo="https://acstatic.co/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71923.m3u8
-#EXTINF:-1 tvg-name="ESPN 3 FHD" tvg-logo="https://acstatic.co/logos/canais/espn.png" group-title="Canais | Esportes",ESPN 3 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71907.m3u8
-#EXTINF:-1 tvg-name="ESPN 3 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/espn.png" group-title="Canais | Esportes",ESPN 3 FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71908.m3u8
+
 #EXTINF:-1 tvg-name="ESPN 3 HD" tvg-logo="https://acstatic.co/logos/canais/espn.png" group-title="Canais | Esportes",ESPN 3 HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71909.m3u8
-#EXTINF:-1 tvg-name="ESPN 3 SD" tvg-logo="https://acstatic.co/logos/canais/espn.png" group-title="Canais | Esportes",ESPN 3 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71910.m3u8
-#EXTINF:-1 tvg-name="ESPN 4 FHD" tvg-logo="https://acstatic.co/logos/canais/foxsports1.png" group-title="Canais | Esportes",ESPN 4 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71957.m3u8
-#EXTINF:-1 tvg-name="ESPN 4 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/foxsports1.png" group-title="Canais | Esportes",ESPN 4 FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71958.m3u8
+
 #EXTINF:-1 tvg-name="ESPN 4 HD" tvg-logo="https://acstatic.co/logos/canais/foxsports1.png" group-title="Canais | Esportes",ESPN 4 HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71960.m3u8
-#EXTINF:-1 tvg-name="ESPN 4 SD" tvg-logo="https://acstatic.co/logos/canais/foxsports1.png" group-title="Canais | Esportes",ESPN 4 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71961.m3u8
-#EXTINF:-1 tvg-name="ESPN 6 FHD" tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN 6 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71915.m3u8
-#EXTINF:-1 tvg-name="ESPN 6 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN 6 FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71916.m3u8
-#EXTINF:-1 tvg-name="ESPN 6 HD" tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN 6 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71917.m3u8
-#EXTINF:-1 tvg-name="ESPN 6 SD" tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN 6 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71918.m3u8
-#EXTINF:-1 tvg-name="ESPN FHD" tvg-logo="http://imagecdn.sh:80/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | Esportes",ESPN FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71911.m3u8
-#EXTINF:-1 tvg-name="ESPN FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/espn.png" group-title="Canais | Esportes",ESPN FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71912.m3u8
-#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="http://imagecdn.sh:80/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | Esportes",ESPN HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71913.m3u8
-#EXTINF:-1 tvg-name="ESPN SD" tvg-logo="http://imagecdn.sh:80/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | Esportes",ESPN SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71914.m3u8
-#EXTINF:-1 tvg-name="ESPN 5 FHD" tvg-logo="https://acstatic.co/logos/canais/foxsports2.png" group-title="Canais | Esportes",ESPN 5 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71952.m3u8
-#EXTINF:-1 tvg-name="ESPN 5 [H265]" tvg-logo="https://acstatic.co/logos/canais/foxsports2.png" group-title="Canais | Esportes",ESPN 5 [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71953.m3u8
+
 #EXTINF:-1 tvg-name="ESPN 5 HD" tvg-logo="https://acstatic.co/logos/canais/foxsports2.png" group-title="Canais | Esportes",ESPN 5 HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71955.m3u8
-#EXTINF:-1 tvg-name="ESPN 5 SD" tvg-logo="https://acstatic.co/logos/canais/foxsports2.png" group-title="Canais | Esportes",ESPN 5 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71956.m3u8
-#EXTINF:-1 tvg-name="FUEL TV FHD" tvg-logo="https://i.imgur.com/ZmZfDtk.png" group-title="Canais | Esportes",FUEL TV FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191305.m3u8
-#EXTINF:-1 tvg-name="FUEL TV HD" tvg-logo="https://i.imgur.com/ZmZfDtk.png" group-title="Canais | Esportes",FUEL TV HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191304.m3u8
-#EXTINF:-1 tvg-name="Copa do Brasil 3 FHD" tvg-logo="" group-title="Canais | Esportes",Copa do Brasil 3 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/142040.m3u8
-#EXTINF:-1 tvg-name="Copa do Brasil 3 HD" tvg-logo="" group-title="Canais | Esportes",Copa do Brasil 3 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/105789.m3u8
-#EXTINF:-1 tvg-name="Copa do Brasil 3 SD" tvg-logo="" group-title="Canais | Esportes",Copa do Brasil 3 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/142041.m3u8
-#EXTINF:-1 tvg-name="GAMETOON" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Gametoon_HD.svg/revision/latest?cb=20171210220825" group-title="Canais | Esportes",GAMETOON
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191316.m3u8
-#EXTINF:-1 tvg-name="GINX ESPORTS TV" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/d/da/Ginx_eSports_TV_%282016-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180608094248" group-title="Canais | Esportes",GINX ESPORTS TV
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191317.m3u8
-#EXTINF:-1 tvg-name="MOTORVISION TV SD" tvg-logo="https://i.imgur.com/I0ZTOVi.png" group-title="Canais | Esportes",MOTORVISION TV SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191310.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 6 HD" tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN 6 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71917.m3u8
+
+#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="http://imagecdn.sh:80/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | Esportes",ESPN HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71913.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 2 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 2 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72239.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 3 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 3 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72243.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 4 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 4 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72247.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 5 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 5 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72251.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 6 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 6 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72255.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 7 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 7 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72259.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 8 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 8 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/180159.m3u8
+
+#EXTINF:-1 tvg-name="Premiere Clubes HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere Clubes HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72265.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-name="NFL NETWORK HD" tvg-logo="https://www.logolynx.com/images/logolynx/3f/3f73be391f4b8876b4f05e5b95dbadba.png" group-title="Canais | Esportes",NFL NETWORK HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191325.m3u8
 #EXTINF:-1 tvg-name="Nosso Futebol 1 FHD" tvg-logo="" group-title="Canais | Esportes",Nosso Futebol 1 FHD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184569.m3u8
-#EXTINF:-1 tvg-name="Nosso Futebol 1 FHD [H265]" tvg-logo="" group-title="Canais | Esportes",Nosso Futebol 1 FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184573.m3u8
-#EXTINF:-1 tvg-name="Nosso Futebol 1 HD" tvg-logo="" group-title="Canais | Esportes",Nosso Futebol 1 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184570.m3u8
-#EXTINF:-1 tvg-name="Nosso Futebol 1 SD" tvg-logo="" group-title="Canais | Esportes",Nosso Futebol 1 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184571.m3u8
-#EXTINF:-1 tvg-name="Nosso Futebol 2 FHD" tvg-logo="" group-title="Canais | Esportes",Nosso Futebol 2 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184574.m3u8
-#EXTINF:-1 tvg-name="Nosso Futebol 2 FHD [H265]" tvg-logo="" group-title="Canais | Esportes",Nosso Futebol 2 FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184578.m3u8
-#EXTINF:-1 tvg-name="Nosso Futebol 2 HD" tvg-logo="" group-title="Canais | Esportes",Nosso Futebol 2 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184575.m3u8
-#EXTINF:-1 tvg-name="Nosso Futebol 2 SD" tvg-logo="" group-title="Canais | Esportes",Nosso Futebol 2 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184576.m3u8
-#EXTINF:-1 tvg-name="Nosso Futebol 3 FHD" tvg-logo="" group-title="Canais | Esportes",Nosso Futebol 3 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184579.m3u8
-#EXTINF:-1 tvg-name="Nosso Futebol 3 FHD [H265]" tvg-logo="" group-title="Canais | Esportes",Nosso Futebol 3 FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184583.m3u8
-#EXTINF:-1 tvg-name="Nosso Futebol 3 HD" tvg-logo="" group-title="Canais | Esportes",Nosso Futebol 3 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184580.m3u8
-#EXTINF:-1 tvg-name="Nosso Futebol 3 SD" tvg-logo="" group-title="Canais | Esportes",Nosso Futebol 3 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184581.m3u8
-#EXTINF:-1 tvg-name="Nosso Futebol 4 FHD" tvg-logo="" group-title="Canais | Esportes",Nosso Futebol 4 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184584.m3u8
-#EXTINF:-1 tvg-name="Nosso Futebol 4 FHD [H265]" tvg-logo="" group-title="Canais | Esportes",Nosso Futebol 4 FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184587.m3u8
-#EXTINF:-1 tvg-name="Nosso Futebol 4 HD" tvg-logo="" group-title="Canais | Esportes",Nosso Futebol 4 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184585.m3u8
-#EXTINF:-1 tvg-name="Nosso Futebol 4 SD" tvg-logo="" group-title="Canais | Esportes",Nosso Futebol 4 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184586.m3u8
-#EXTINF:-1 tvg-name="Outdoor HD" tvg-logo="https://www.absatellite.com/wp-content/uploads/outdoor_channel_hd.png" group-title="Canais | Esportes",Outdoor HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191311.m3u8
-#EXTINF:-1 tvg-name="PFC SD" tvg-logo="https://i.imgur.com/kvmx029.png" group-title="Canais | Esportes",PFC SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191303.m3u8
-#EXTINF:-1 tvg-name="RED BUL TV HD" tvg-logo="https://seeklogo.com/images/R/red-bull-logo-379EC9059E-seeklogo.com.png" group-title="Canais | Esportes",RED BUL TV HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191314.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="SPORT TV +  HD" tvg-logo="https://i.imgur.com/zsFjzDa.png" group-title="Canais | Esportes",SPORT TV +  HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191239.m3u8
 #EXTINF:-1 tvg-name="SPORT TV + FHD" tvg-logo="https://i.imgur.com/zsFjzDa.png" group-title="Canais | Esportes",SPORT TV + FHD
@@ -334,127 +168,11 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72330.m3u8
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72332.m3u8
 #EXTINF:-1 tvg-name="SporTV SD" tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="Canais | Esportes",SporTV SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131132.m3u8
-#EXTINF:-1 tvg-name="Premiere 2 FHD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 2 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72237.m3u8
-#EXTINF:-1 tvg-name="Premiere 2 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 2 FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72238.m3u8
-#EXTINF:-1 tvg-name="Premiere 2 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 2 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72239.m3u8
-#EXTINF:-1 tvg-name="Premiere 2 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 2 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72240.m3u8
-#EXTINF:-1 tvg-name="Premiere 3 FHD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 3 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72241.m3u8
-#EXTINF:-1 tvg-name="Premiere 3 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 3 FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72242.m3u8
-#EXTINF:-1 tvg-name="Premiere 3 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 3 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72243.m3u8
-#EXTINF:-1 tvg-name="Premiere 3 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 3 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72244.m3u8
-#EXTINF:-1 tvg-name="Premiere 4 FHD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 4 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72245.m3u8
-#EXTINF:-1 tvg-name="Premiere 4 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 4 FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72246.m3u8
-#EXTINF:-1 tvg-name="Premiere 4 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 4 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72247.m3u8
-#EXTINF:-1 tvg-name="Premiere 4 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 4 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72248.m3u8
-#EXTINF:-1 tvg-name="Premiere 5 FHD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 5 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72249.m3u8
-#EXTINF:-1 tvg-name="Premiere 5 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 5 FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72250.m3u8
-#EXTINF:-1 tvg-name="Premiere 5 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 5 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72251.m3u8
-#EXTINF:-1 tvg-name="Premiere 5 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 5 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72252.m3u8
-#EXTINF:-1 tvg-name="Premiere 6 FHD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 6 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72253.m3u8
-#EXTINF:-1 tvg-name="Premiere 6 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 6 FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72254.m3u8
-#EXTINF:-1 tvg-name="Premiere 6 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 6 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72255.m3u8
-#EXTINF:-1 tvg-name="Premiere 6 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 6 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72256.m3u8
-#EXTINF:-1 tvg-name="Premiere 7 FHD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 7 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72257.m3u8
-#EXTINF:-1 tvg-name="Premiere 7 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 7 FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72258.m3u8
-#EXTINF:-1 tvg-name="Premiere 7 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 7 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72259.m3u8
-#EXTINF:-1 tvg-name="Premiere 7 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 7 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72260.m3u8
-#EXTINF:-1 tvg-name="Premiere 8 FHD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 8 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/180158.m3u8
-#EXTINF:-1 tvg-name="Premiere 8 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 8 FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/180161.m3u8
-#EXTINF:-1 tvg-name="Premiere 8 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 8 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/180159.m3u8
-#EXTINF:-1 tvg-name="Premiere 8 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 8 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/180160.m3u8
-#EXTINF:-1 tvg-name="Premiere Clubes FHD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere Clubes FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72262.m3u8
-#EXTINF:-1 tvg-name="Premiere Clubes FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere Clubes FHD [H265]
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72263.m3u8
-#EXTINF:-1 tvg-name="Premiere Clubes HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere Clubes HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72265.m3u8
-#EXTINF:-1 tvg-name="Premiere Clubes SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere Clubes SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72266.m3u8
-#EXTINF:-1 tvg-name="Liga Futsal 1 FHD" tvg-logo="http://imagecdn.sh:80/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | Esportes",Liga Futsal 1 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/73006.m3u8
-#EXTINF:-1 tvg-name="Liga Futsal 1 HD" tvg-logo="http://imagecdn.sh:80/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | Esportes",Liga Futsal 1 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/109225.m3u8
-#EXTINF:-1 tvg-name="Liga Futsal 1 SD" tvg-logo="http://imagecdn.sh:80/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | Esportes",Liga Futsal 1 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/155741.m3u8
-#EXTINF:-1 tvg-name="Liga Futsal 2 FHD" tvg-logo="http://imagecdn.sh:80/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | Esportes",Liga Futsal 2 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/155742.m3u8
-#EXTINF:-1 tvg-name="Liga Futsal 2 HD" tvg-logo="http://imagecdn.sh:80/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | Esportes",Liga Futsal 2 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/155743.m3u8
-#EXTINF:-1 tvg-name="Liga Futsal 2 SD" tvg-logo="http://imagecdn.sh:80/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | Esportes",Liga Futsal 2 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/155744.m3u8
-#EXTINF:-1 tvg-name="Liga Futsal 3 FHD" tvg-logo="http://imagecdn.sh:80/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | Esportes",Liga Futsal 3 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/156663.m3u8
-#EXTINF:-1 tvg-name="Liga Futsal 3 HD" tvg-logo="http://imagecdn.sh:80/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | Esportes",Liga Futsal 3 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/156664.m3u8
-#EXTINF:-1 tvg-name="Liga Futsal 3 SD" tvg-logo="http://imagecdn.sh:80/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | Esportes",Liga Futsal 3 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/156665.m3u8
-#EXTINF:-1 tvg-name="Liga Futsal 4 FHD" tvg-logo="http://imagecdn.sh:80/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | Esportes",Liga Futsal 4 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/156666.m3u8
-#EXTINF:-1 tvg-name="Liga Futsal 4 HD" tvg-logo="http://imagecdn.sh:80/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | Esportes",Liga Futsal 4 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/156667.m3u8
-#EXTINF:-1 tvg-name="Liga Futsal 4 SD" tvg-logo="http://imagecdn.sh:80/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | Esportes",Liga Futsal 4 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/156668.m3u8
-#EXTINF:-1 tvg-name="NBA League Pass 1 FHD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | Esportes",NBA League Pass 1 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/140516.m3u8
-#EXTINF:-1 tvg-name="NBA League Pass 1 HD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | Esportes",NBA League Pass 1 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/140517.m3u8
-#EXTINF:-1 tvg-name="NBA League Pass 1 SD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | Esportes",NBA League Pass 1 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/140518.m3u8
-#EXTINF:-1 tvg-name="NBA League Pass 2 FHD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | Esportes",NBA League Pass 2 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/140519.m3u8
-#EXTINF:-1 tvg-name="NBA League Pass 2 HD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | Esportes",NBA League Pass 2 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/140520.m3u8
-#EXTINF:-1 tvg-name="NBA League Pass 2 SD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | Esportes",NBA League Pass 2 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/140521.m3u8
-#EXTINF:-1 tvg-name="NBA League Pass 3 FHD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | Esportes",NBA League Pass 3 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/140522.m3u8
-#EXTINF:-1 tvg-name="NBA League Pass 3 HD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | Esportes",NBA League Pass 3 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/140523.m3u8
-#EXTINF:-1 tvg-name="NBA League Pass 3 SD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | Esportes",NBA League Pass 3 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/140524.m3u8
-#EXTINF:-1 tvg-name="NBA League Pass 4 FHD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | Esportes",NBA League Pass 4 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/140525.m3u8
-#EXTINF:-1 tvg-name="NBA League Pass 4 HD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | Esportes",NBA League Pass 4 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/140526.m3u8
-#EXTINF:-1 tvg-name="NBA League Pass 4 SD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | Esportes",NBA League Pass 4 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/140527.m3u8
-#EXTINF:-1 tvg-name="NBA League Pass 5 FHD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | Esportes",NBA League Pass 5 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/141487.m3u8
-#EXTINF:-1 tvg-name="NBA League Pass 5 HD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | Esportes",NBA League Pass 5 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/141488.m3u8
-#EXTINF:-1 tvg-name="NBA League Pass 5 SD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | Esportes",NBA League Pass 5 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/141489.m3u8
-#EXTINF:-1 tvg-name="NBA League Pass 6 FHD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | Esportes",NBA League Pass 6 FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/141490.m3u8
-#EXTINF:-1 tvg-name="NBA League Pass 6 HD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | Esportes",NBA League Pass 6 HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/141491.m3u8
-#EXTINF:-1 tvg-name="NBA League Pass 6 SD" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | Esportes",NBA League Pass 6 SD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/141492.m3u8
+
+
+
+
+
+
+
+
