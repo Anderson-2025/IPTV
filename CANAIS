@@ -1,1 +1,757 @@
-01
+########################################################################################################
+####################################     EPG                        ####################################
+####################################     Canais 4K [FHDR]           ####################################
+####################################     Canais Abertos             ####################################
+####################################     Canais Documentários       ####################################
+####################################     Canais Esportes            ####################################
+####################################     Canais Filmes e Séries     ####################################
+####################################     Canais Infantis            ####################################
+####################################     Canais Música              ####################################
+####################################     Canais Notícias            ####################################
+####################################     Canais Religiosos          ####################################
+####################################     Canais Variedades          ####################################
+########################################################################################################
+
+####################################     EPG                        ####################################
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_BR.xml.gz"
+
+####################################     Canais 4K                  ####################################
+#EXTINF:-1 tvg-name="A&E 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="Canais | 4K",A&E 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90647.m3u8
+#EXTINF:-1 tvg-name="AgroMais 4K FHDR" tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | 4K",AgroMais 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103532.m3u8
+#EXTINF:-1 tvg-name="AMC 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="Canais | 4K",AMC 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90646.m3u8
+#EXTINF:-1 tvg-name="Animal Planet 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | 4K",Animal Planet 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71774.m3u8
+#EXTINF:-1 tvg-name="Arte 1 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/arte1.png" group-title="Canais | 4K",Arte 1 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103531.m3u8
+#EXTINF:-1 tvg-name="AXN 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/axn.png" group-title="Canais | 4K",AXN 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90645.m3u8
+#EXTINF:-1 tvg-name="Band News 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/bandnews.png" group-title="Canais | 4K",Band News 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103526.m3u8
+#EXTINF:-1 tvg-name="Band Sports 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/bandsports.png" group-title="Canais | 4K",Band Sports 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103525.m3u8
+#EXTINF:-1 tvg-name="BIS 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/bis.png" group-title="Canais | 4K",BIS 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103527.m3u8
+#EXTINF:-1 tvg-name="Canal Brasil 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/canalbrasil.png" group-title="Canais | 4K",Canal Brasil 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103518.m3u8
+#EXTINF:-1 tvg-name="Canal do Boi 4K FHDR" tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Canais | 4K",Canal do Boi 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103516.m3u8
+#EXTINF:-1 tvg-name="Canal Rural 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="Canais | 4K",Canal Rural 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178516.m3u8
+#EXTINF:-1 tvg-name="Canal Sony 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/sony.png" group-title="Canais | 4K",Canal Sony 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103517.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/cartoon.png" group-title="Canais | 4K",Cartoon Network 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71830.m3u8
+#EXTINF:-1 tvg-name="Cartoonito 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/boomerang.png" group-title="Canais | 4K",Cartoonito 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90644.m3u8
+#EXTINF:-1 tvg-name="Cinecanal 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/01375ac11a3195fb2fdef0f451d0943e.png" group-title="Canais | 4K",Cinecanal 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103468.m3u8
+#EXTINF:-1 tvg-name="Cinemax 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/cinemax.png" group-title="Canais | 4K",Cinemax 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90643.m3u8
+#EXTINF:-1 tvg-name="CNN Brasil 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/cnn.png" group-title="Canais | 4K",CNN Brasil 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71798.m3u8
+#EXTINF:-1 tvg-name="Combate 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/combate.png" group-title="Canais | 4K",Combate 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71844.m3u8
+#EXTINF:-1 tvg-name="Comedy Central 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/comedycentral.png" group-title="Canais | 4K",Comedy Central 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90642.m3u8
+#EXTINF:-1 tvg-name="Cultura 4K FHDR" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | 4K",Cultura 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103513.m3u8
+#EXTINF:-1 tvg-name="Curta! 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Canais | 4K",Curta! 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103512.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoverychannel.png" group-title="Canais | 4K",Discovery Channel 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71864.m3u8
+#EXTINF:-1 tvg-name="Discovery H&H 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoveryh%26h.png" group-title="Canais | 4K",Discovery H&H 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90251.m3u8
+#EXTINF:-1 tvg-name="Discovery Kids 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Canais | 4K",Discovery Kids 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90250.m3u8
+#EXTINF:-1 tvg-name="Discovery Science 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="Canais | 4K",Discovery Science 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103511.m3u8
+#EXTINF:-1 tvg-name="Discovery Theater 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoverytheater.png" group-title="Canais | 4K",Discovery Theater 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103510.m3u8
+#EXTINF:-1 tvg-name="Discovery Turbo 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoveryturbo.png" group-title="Canais | 4K",Discovery Turbo 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90641.m3u8
+#EXTINF:-1 tvg-name="Discovery World 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoveryworld.png" group-title="Canais | 4K",Discovery World 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103509.m3u8
+#EXTINF:-1 tvg-name="Disney Channel 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/disney.png" group-title="Canais | 4K",Disney Channel 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103508.m3u8
+#EXTINF:-1 tvg-name="E! 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/e%21.png" group-title="Canais | 4K",E! 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103506.m3u8
+#EXTINF:-1 tvg-name="ESPN 2 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/espn2.png" group-title="Canais | 4K",ESPN 2 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71921.m3u8
+#EXTINF:-1 tvg-name="ESPN 3 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/espn.png" group-title="Canais | 4K",ESPN 3 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103504.m3u8
+#EXTINF:-1 tvg-name="ESPN 4 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/foxsports1.png" group-title="Canais | 4K",ESPN 4 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71959.m3u8
+#EXTINF:-1 tvg-name="ESPN 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/espnbrasil.png" group-title="Canais | 4K",ESPN 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90640.m3u8
+#EXTINF:-1 tvg-name="ESPN 6 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="Canais | 4K",ESPN 6 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103505.m3u8
+#EXTINF:-1 tvg-name="Fashion TV 4K FHDR" tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | 4K",Fashion TV 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103503.m3u8
+#EXTINF:-1 tvg-name="Film&Arts FHDR" tvg-logo="" group-title="Canais | 4K",Film&Arts FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178518.m3u8
+#EXTINF:-1 tvg-name="Fish TV 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/fishtv.png" group-title="Canais | 4K",Fish TV 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103502.m3u8
+#EXTINF:-1 tvg-name="Food Network 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/foodnetwork.png" group-title="Canais | 4K",Food Network 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103501.m3u8
+#EXTINF:-1 tvg-name="ESPN 5 FHDR" tvg-logo="https://acstatic.co/logos/canais/foxsports2.png" group-title="Canais | 4K",ESPN 5 FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71954.m3u8
+#EXTINF:-1 tvg-name="France 24 4K FHDR" tvg-logo="" group-title="Canais | 4K",France 24 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103500.m3u8
+#EXTINF:-1 tvg-name="Futura 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/futura.png" group-title="Canais | 4K",Futura 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103499.m3u8
+#EXTINF:-1 tvg-name="FX 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/fx.png" group-title="Canais | 4K",FX 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90639.m3u8
+#EXTINF:-1 tvg-name="Globo News 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/globonews.png" group-title="Canais | 4K",Globo News 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90248.m3u8
+#EXTINF:-1 tvg-name="Globo TV Verdes Mares 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="Canais | 4K",Globo TV Verdes Mares 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72080.m3u8
+#EXTINF:-1 tvg-name="Gloob 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/gloob.png" group-title="Canais | 4K",Gloob 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103498.m3u8
+#EXTINF:-1 tvg-name="Gloobinho 4K FHDR" tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | 4K",Gloobinho 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103497.m3u8
+#EXTINF:-1 tvg-name="GNT 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/gnt.png" group-title="Canais | 4K",GNT 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90638.m3u8
+#EXTINF:-1 tvg-name="H2 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | 4K",H2 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90245.m3u8
+#EXTINF:-1 tvg-name="HBO 2 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/hbo2.png" group-title="Canais | 4K",HBO 2 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90246.m3u8
+#EXTINF:-1 tvg-name="HBO 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/hbo.png" group-title="Canais | 4K",HBO 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90247.m3u8
+#EXTINF:-1 tvg-name="HBO Family 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/hbofamily.png" group-title="Canais | 4K",HBO Family 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90637.m3u8
+#EXTINF:-1 tvg-name="HBO MUNDI 4K FHDR" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | 4K",HBO MUNDI 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103496.m3u8
+#EXTINF:-1 tvg-name="HBO Plus 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/hboplus.png" group-title="Canais | 4K",HBO Plus 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90635.m3u8
+#EXTINF:-1 tvg-name="HBO POP 4K FHDR" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | 4K",HBO POP 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103495.m3u8
+#EXTINF:-1 tvg-name="HBO Signature 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/hbosignature.png" group-title="Canais | 4K",HBO Signature 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103494.m3u8
+#EXTINF:-1 tvg-name="HBO Xtreme 4K FHDR" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | 4K",HBO Xtreme 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90636.m3u8
+#EXTINF:-1 tvg-name="HGTV 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | 4K",HGTV 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103493.m3u8
+#EXTINF:-1 tvg-name="History 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | 4K",History 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90244.m3u8
+#EXTINF:-1 tvg-name="ID 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/id.png" group-title="Canais | 4K",ID 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90243.m3u8
+#EXTINF:-1 tvg-name="Ideal TV 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/6791e20f29c12970b66e3b2fc0a43980.jpg" group-title="Canais | 4K",Ideal TV 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178525.m3u8
+#EXTINF:-1 tvg-name="Jovem Pan News 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="Canais | 4K",Jovem Pan News 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/134021.m3u8
+#EXTINF:-1 tvg-name="Lifetime 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/lifetime.png" group-title="Canais | 4K",Lifetime 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103492.m3u8
+#EXTINF:-1 tvg-name="Like 4K FHDR" tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | 4K",Like 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103491.m3u8
+#EXTINF:-1 tvg-name="Markket 4K FHDR" tvg-logo="" group-title="Canais | 4K",Markket 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/164026.m3u8
+#EXTINF:-1 tvg-name="Megapix 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | 4K",Megapix 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131104.m3u8
+#EXTINF:-1 tvg-name="Modo Viagem 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="Canais | 4K",Modo Viagem 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103488.m3u8
+#EXTINF:-1 tvg-name="MTV 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/mtv.png" group-title="Canais | 4K",MTV 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103490.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/mtv.png" group-title="Canais | 4K",MTV LIVE 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103489.m3u8
+#EXTINF:-1 tvg-name="MTVs 00 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/vh1.png" group-title="Canais | 4K",MTVs 00 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103451.m3u8
+#EXTINF:-1 tvg-name="Multishow 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/multishow.png" group-title="Canais | 4K",Multishow 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131138.m3u8
+#EXTINF:-1 tvg-name="Music Box Brazil 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/musicboxbrazil.png" group-title="Canais | 4K",Music Box Brazil 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103487.m3u8
+#EXTINF:-1 tvg-name="National Geographic 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/nationalgeographic.png" group-title="Canais | 4K",National Geographic 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72198.m3u8
+#EXTINF:-1 tvg-name="Nick Jr. 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/nickjr.png" group-title="Canais | 4K",Nick Jr. 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103485.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon 4K FHDR" tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | 4K",Nickelodeon 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90241.m3u8
+#EXTINF:-1 tvg-name="Nosso Futebol 1 4K FHDR" tvg-logo="" group-title="Canais | 4K",Nosso Futebol 1 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184572.m3u8
+#EXTINF:-1 tvg-name="Nosso Futebol 2 4K FHDR" tvg-logo="" group-title="Canais | 4K",Nosso Futebol 2 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184577.m3u8
+#EXTINF:-1 tvg-name="Nosso Futebol 3 4K FHDR" tvg-logo="" group-title="Canais | 4K",Nosso Futebol 3 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/184582.m3u8
+#EXTINF:-1 tvg-name="OFF 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/off.png" group-title="Canais | 4K",OFF 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90240.m3u8
+#EXTINF:-1 tvg-name="Pai Eterno 4K FHDR" tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | 4K",Pai Eterno 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103484.m3u8
+#EXTINF:-1 tvg-name="Paramount + 1 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | 4K",Paramount + 1 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103524.m3u8
+#EXTINF:-1 tvg-name="Paramount + 2 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | 4K",Paramount + 2 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103523.m3u8
+#EXTINF:-1 tvg-name="Paramount + 3 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | 4K",Paramount + 3 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103522.m3u8
+#EXTINF:-1 tvg-name="Paramount + 4 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | 4K",Paramount + 4 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103521.m3u8
+#EXTINF:-1 tvg-name="Paramount Channel 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/paramount.png" group-title="Canais | 4K",Paramount Channel 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90634.m3u8
+#EXTINF:-1 tvg-name="Premiere 2 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K",Premiere 2 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103482.m3u8
+#EXTINF:-1 tvg-name="Premiere 3 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K",Premiere 3 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103481.m3u8
+#EXTINF:-1 tvg-name="Premiere 4 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K",Premiere 4 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103480.m3u8
+#EXTINF:-1 tvg-name="Premiere 5 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K",Premiere 5 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103479.m3u8
+#EXTINF:-1 tvg-name="Premiere 6 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K",Premiere 6 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103478.m3u8
+#EXTINF:-1 tvg-name="Premiere 7 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K",Premiere 7 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103477.m3u8
+#EXTINF:-1 tvg-name="Premiere 8 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K",Premiere 8 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/180162.m3u8
+#EXTINF:-1 tvg-name="Premiere Clubes 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | 4K",Premiere Clubes 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72264.m3u8
+#EXTINF:-1 tvg-name="Prime Box Brazil 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/primeboxbrazil.png" group-title="Canais | 4K",Prime Box Brazil 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103476.m3u8
+#EXTINF:-1 tvg-name="Record News 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/2449a2b4976db3d6d8efdbd249a40971.png" group-title="Canais | 4K",Record News 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178523.m3u8
+#EXTINF:-1 tvg-name="Rede Gospel 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/bb8c38ad035e925a1f2c8fb19c785370.jpg" group-title="Canais | 4K",Rede Gospel 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178531.m3u8
+#EXTINF:-1 tvg-name="Rede Vida 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/redevida.png" group-title="Canais | 4K",Rede Vida 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103475.m3u8
+#EXTINF:-1 tvg-name="RedeTV! 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/730b1aa20e87fbb7b2101a02fe806630.png" group-title="Canais | 4K",RedeTV! 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178532.m3u8
+#EXTINF:-1 tvg-name="Sabor & Arte 4K FHDR" tvg-logo="" group-title="Canais | 4K",Sabor & Arte 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/112013.m3u8
+#EXTINF:-1 tvg-name="Space 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/space.png" group-title="Canais | 4K",Space 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90633.m3u8
+#EXTINF:-1 tvg-name="SporTV 2 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/sportv2.png" group-title="Canais | 4K",SporTV 2 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103472.m3u8
+#EXTINF:-1 tvg-name="SporTV 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="Canais | 4K",SporTV 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131188.m3u8
+#EXTINF:-1 tvg-name="SporTV3 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/sportv3.png" group-title="Canais | 4K",SporTV3 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103471.m3u8
+#EXTINF:-1 tvg-name="Star Channel 4K FHDR" tvg-logo="http://imagecdn.sh:80/images/8968238c6a30fb4370ba3f7d842c0de9.jpg" group-title="Canais | 4K",Star Channel 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90249.m3u8
+#EXTINF:-1 tvg-name="Studio Universal 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/studiouniversal.png" group-title="Canais | 4K",Studio Universal 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103467.m3u8
+#EXTINF:-1 tvg-name="SYFY 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/syfy.png" group-title="Canais | 4K",SYFY 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103474.m3u8
+#EXTINF:-1 tvg-name="TNT Novelas 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/tbs.png" group-title="Canais | 4K",TNT Novelas 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103466.m3u8
+#EXTINF:-1 tvg-name="Telecine Action 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | 4K",Telecine Action 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90239.m3u8
+#EXTINF:-1 tvg-name="Telecine Cult 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" group-title="Canais | 4K",Telecine Cult 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103456.m3u8
+#EXTINF:-1 tvg-name="Telecine Fun 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" group-title="Canais | 4K",Telecine Fun 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103455.m3u8
+#EXTINF:-1 tvg-name="Telecine Pipoca 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | 4K",Telecine Pipoca 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90238.m3u8
+#EXTINF:-1 tvg-name="Telecine Premium 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | 4K",Telecine Premium 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90237.m3u8
+#EXTINF:-1 tvg-name="Telecine Touch 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | 4K",Telecine Touch 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103454.m3u8
+#EXTINF:-1 tvg-name="TLC 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/tlc.png" group-title="Canais | 4K",TLC 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103465.m3u8
+#EXTINF:-1 tvg-name="TNT 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/tnt.png" group-title="Canais | 4K",TNT 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72377.m3u8
+#EXTINF:-1 tvg-name="TNT Series 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/tntseries.png" group-title="Canais | 4K",TNT Series 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72382.m3u8
+#EXTINF:-1 tvg-name="Trace Brazuca 4K FHDR" tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Canais | 4K",Trace Brazuca 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103453.m3u8
+#EXTINF:-1 tvg-name="Travel Box Brazil 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/travelboxbrazil.png" group-title="Canais | 4K",Travel Box Brazil 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103452.m3u8
+#EXTINF:-1 tvg-name="TV Aparecida 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/aparecida.png" group-title="Canais | 4K",TV Aparecida 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103464.m3u8
+#EXTINF:-1 tvg-name="TV Brasil 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/tvbrasil.png" group-title="Canais | 4K",TV Brasil 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103463.m3u8
+#EXTINF:-1 tvg-name="TV Cidade - RECORDTV 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/record.png" group-title="Canais | 4K",TV Cidade - RECORDTV 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103462.m3u8
+#EXTINF:-1 tvg-name="TV Gazeta SP 4K FHDR" tvg-logo="" group-title="Canais | 4K",TV Gazeta SP 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178520.m3u8
+#EXTINF:-1 tvg-name="TV Novo Tempo 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/novotempo.png" group-title="Canais | 4K",TV Novo Tempo 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103459.m3u8
+#EXTINF:-1 tvg-name="TV Ra Tim Bum 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/ratimbum.png" group-title="Canais | 4K",TV Ra Tim Bum 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103458.m3u8
+#EXTINF:-1 tvg-name="TV Uniao 4K FHDR" tvg-logo="" group-title="Canais | 4K",TV Uniao 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103457.m3u8
+#EXTINF:-1 tvg-name="Universal TV 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/universalchannel.png" group-title="Canais | 4K",Universal TV 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90632.m3u8
+#EXTINF:-1 tvg-name="Viva 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/viva.png" group-title="Canais | 4K",Viva 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103450.m3u8
+#EXTINF:-1 tvg-name="Warner Channel 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/warner.png" group-title="Canais | 4K",Warner Channel 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90236.m3u8
+#EXTINF:-1 tvg-name="Woohoo 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/woohoo.png" group-title="Canais | 4K",Woohoo 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103449.m3u8
+#EXTINF:-1 tvg-name="Zoomoo 4K FHDR" tvg-logo="" group-title="Canais | 4K",Zoomoo 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178533.m3u8
+
+####################################     Canais Abertos             ####################################
+#EXTINF:-1 tvg-name="Agro+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Agromais-band-logo.png" group-title="Canais | Abertos",Agro+ HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71766.m3u8
+
+#EXTINF:-1 tvg-name="Band HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg" group-title="Canais | Abertos",Band SP HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72597.m3u8
+
+#EXTINF:-1 tvg-name="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canais | Abertos",Canal do Boi HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71821.m3u8
+
+#EXTINF:-1 tvg-name="Canal Rural" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/38/Canalrural.png" group-title="Canais | Abertos",Canal Rural HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178513.m3u8
+
+#EXTINF:-1 tvg-name="Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/800px-Cultura_logo_2013.svg.png" group-title="Canais | Abertos",Cultura HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71853.m3u8
+
+#EXTINF:-1 tvg-name="Futura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d9/Logo-futura-horizontal.png" group-title="Canais | Abertos",Futura HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71964.m3u8
+
+#EXTINF:-1 tvg-name="EPTV Campinas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="Canais | Abertos",Globo EPTV Campinas HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71977.m3u8
+
+#EXTINF:-1 tvg-name="Globo SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais | Abertos",Globo SP HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131212.m3u8
+
+#EXTINF:-1 tvg-name="Record" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png" group-title="Canais | Abertos",Record SP HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72973.m3u8
+
+#EXTINF:-1 tvg-name="RedeTV! HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Canais | Abertos",RedeTV! HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72299.m3u8
+
+#EXTINF:-1 tvg-name="RTP 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/RTP1_-_Logo_2016.svg" group-title="Canais | Abertos",RTP 1 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191399.m3u8
+
+#EXTINF:-1 tvg-name="RTP 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-title="Canais | Abertos",RTP 2 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191403.m3u8
+
+#EXTINF:-1 tvg-name="SBT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/800px-Logotipo_do_SBT.svg.png" group-title="Canais | Abertos",SBT SP HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72598.m3u8
+
+#EXTINF:-1 tvg-name="SIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Canais | Abertos",SIC HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191407.m3u8
+
+#EXTINF:-1 tvg-name="TV Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TV_Brasil_logo_2023.svg" group-title="Canais | Abertos",TV Brasil HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72401.m3u8
+
+#EXTINF:-1 tvg-name="TV Cidade HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_TV_Cidade_%28S%C3%A3o_Lu%C3%ADs%29.png" group-title="Canais | Abertos",TV Cidade HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/92668.m3u8
+
+#EXTINF:-1 tvg-name="TV Gazeta HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1920px-TV_Gazeta.svg.png" group-title="Canais | Abertos",TV Gazeta HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72406.m3u8
+
+####################################     Canais Documentários       ####################################
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Canais | Documentários",Animal Planet HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71775.m3u8
+
+#EXTINF:-1 tvg-name="Arte 1 HD" tvg-logo="https://acstatic.co/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71779.m3u8
+
+#EXTINF:-1 tvg-name="Canal História HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Canal_de_Historia.png" group-title="Canais | Documentários",Canal História HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191366.m3u8
+
+#EXTINF:-1 tvg-name="Curta! HD" tvg-logo="https://acstatic.co/logos/canais/curta.png" group-title="Canais | Documentários",Curta! HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71857.m3u8
+
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg" group-title="Canais | Documentários",Discovery Channel HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191363.m3u8
+
+#EXTINF:-1 tvg-name="Discovery ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png" group-title="Canais | Documentários",Discovery ID HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191367.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Science HD" tvg-logo="https://acstatic.co/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71877.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Theater" tvg-logo="https://acstatic.co/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71881.m3u8
+
+#EXTINF:-1 tvg-name="Discovery World" tvg-logo="https://acstatic.co/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71889.m3u8
+
+#EXTINF:-1 tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Canais | Documentários",HGTV HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72144.m3u8
+
+#EXTINF:-1 tvg-name="H2 HD" tvg-logo="https://acstatic.co/logos/canais/h2.png" group-title="Canais | Documentários",History 2 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72108.m3u8
+
+#EXTINF:-1 tvg-name="History HD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | Documentários",History HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72148.m3u8
+
+#EXTINF:-1 tvg-name="ID HD" tvg-logo="http://imagecdn.sh:80/images/ae050ba13a405e34c4192a0da5376574.png" group-title="Canais | Documentários",ID HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72152.m3u8
+
+#EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="http://imagecdn.sh:80/images/9a5e6af569e7b3600bad7c9dcf77a721.png" group-title="Canais | Documentários",National Geographic HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72199.m3u8
+
+#EXTINF:-1 tvg-name="ODISSEIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="Canais | Documentários",ODISSEIA HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191365.m3u8
+
+####################################     Canais Esportes            ####################################
+#EXTINF:-1 tvg-name="Band Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png" group-title="Canais | Esportes",Band Sports HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71803.m3u8
+
+#EXTINF:-1 tvg-name="BTV HD" tvg-logo="https://1.bp.blogspot.com/-bmo-eSDKLm0/WDrqBACM5GI/AAAAAAAAFas/uDRGh2C-tZ0oRPUufWBWVRtVHnHBJoduwCLcB/s1600/BTV%2BHD%2Blogo.png" group-title="Canais | Esportes",BTV HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191271.m3u8
+
+#EXTINF:-1 tvg-name="Combate HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="Canais | Esportes",Combate HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71845.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" group-title="Canais | Esportes",ESPN 2 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71922.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Canais | Esportes",ESPN 3 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71909.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/ESPN_4_logo.svg" group-title="Canais | Esportes",ESPN 4 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71960.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/ESPN_5_logo.svg" group-title="Canais | Esportes",ESPN 5 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71955.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/ESPN_6_logo.svg" group-title="Canais | Esportes",ESPN 6 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71917.m3u8
+
+#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="http://imagecdn.sh:80/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | Esportes",ESPN HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71913.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 2 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 2 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72239.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 3 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 3 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72243.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 4 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 4 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72247.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 5 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 5 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72251.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 6 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 6 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72255.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 7 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 7 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72259.m3u8
+
+#EXTINF:-1 tvg-name="Premiere 8 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere 8 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/180159.m3u8
+
+#EXTINF:-1 tvg-name="Premiere Clubes HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="Canais | Esportes",Premiere Clubes HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72265.m3u8
+
+#EXTINF:-1 tvg-name="NFL NETWORK HD" tvg-logo="https://www.logolynx.com/images/logolynx/3f/3f73be391f4b8876b4f05e5b95dbadba.png" group-title="Canais | Esportes",NFL NETWORK HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191325.m3u8
+
+#EXTINF:-1 tvg-name="SporTV 2 HD" tvg-logo="https://acstatic.co/logos/canais/sportv2.png" group-title="Canais | Esportes",SporTV 2 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131176.m3u8
+
+#EXTINF:-1 tvg-name="SporTV 3 HD" tvg-logo="https://acstatic.co/logos/canais/sportv3.png" group-title="Canais | Esportes",SporTV 3 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131113.m3u8
+
+#EXTINF:-1 tvg-name="SporTV HD" tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="Canais | Esportes",SporTV HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72332.m3u8
+
+####################################     Canais Filmes e Séries     ####################################
+#EXTINF:-1 tvg-name="AMC Break HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/AMC_Break.svg" group-title="Canais | Filmes e Séries",AMC Break HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191202.m3u8
+
+#EXTINF:-1 tvg-name="AMC Crime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/AMC_Crime.svg" group-title="Canais | Filmes e Séries",AMC Crime HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191200.m3u8
+
+#EXTINF:-1 tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Canais | Filmes e Séries",AMC HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71770.m3u8
+
+#EXTINF:-1 tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/AXN_logo_%282015%29.svg" group-title="Canais | Filmes e Séries",AXN HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71783.m3u8
+
+#EXTINF:-1 tvg-name="AXN Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="Canais | Filmes e Séries",AXN Movies HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191217.m3u8
+
+#EXTINF:-1 tvg-name="AXN White HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/AXN_White_logo_%282015%29.svg" group-title="Canais | Filmes e Séries",AXN White HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191214.m3u8
+
+#EXTINF:-1 tvg-name="Canal Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/CanalBrasilOnAir.png" group-title="Canais | Filmes e Séries",Canal Brasil HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71818.m3u8
+
+#EXTINF:-1 tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Canal_Sony.svg" group-title="Canais | Filmes e Séries",Canal Sony HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71826.m3u8
+
+#EXTINF:-1 tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1920px-Cinemax_2016.svg.png" group-title="Canais | Filmes e Séries",Cinemax HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71835.m3u8
+
+#EXTINF:-1 tvg-name="Cinemundo" tvg-logo="https://3.bp.blogspot.com/-mHEz-7oSIXw/VSene5r6G5I/AAAAAAAAEyE/4R-rWWL9nyo/s1600/Cinemundo%2Blogo%2B1.png" group-title="Canais | Filmes e Séries",Cinemundo
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191195.m3u8
+
+#EXTINF:-1 tvg-name="Film and Arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="Canais | Filmes e Séries",Film&Arts HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/104915.m3u8
+
+#EXTINF:-1 tvg-name="FX HD" tvg-logo="http://imagecdn.sh:80/images/d914a71d43ce7f0e02e8d8a55b33bf7b.png" group-title="Canais | Filmes e Séries",FX HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71968.m3u8
+
+#EXTINF:-1 tvg-name="HBO 2 HD" tvg-logo="https://acstatic.co/logos/canais/hbo2.png" group-title="Canais | Filmes e Séries",HBO 2 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72112.m3u8
+
+#EXTINF:-1 tvg-name="HBO Family HD" tvg-logo="https://acstatic.co/logos/canais/hbofamily.png" group-title="Canais | Filmes e Séries",HBO Family HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72116.m3u8
+
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://acstatic.co/logos/canais/hbo.png" group-title="Canais | Filmes e Séries",HBO HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72120.m3u8
+
+#EXTINF:-1 tvg-name="HBO Mundi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/HBO_Mundi.svg" group-title="Canais | Filmes e Séries",HBO Mundi HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72123.m3u8
+
+#EXTINF:-1 tvg-name="HBO Plus HD" tvg-logo="https://acstatic.co/logos/canais/hboplus.png" group-title="Canais | Filmes e Séries",HBO Plus HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72127.m3u8
+
+#EXTINF:-1 tvg-name="HBO Pop HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/HBO_Pop.svg" group-title="Canais | Filmes e Séries",HBO Pop HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72131.m3u8
+
+#EXTINF:-1 tvg-name="HBO Signature HD" tvg-logo="https://acstatic.co/logos/canais/hbosignature.png" group-title="Canais | Filmes e Séries",HBO Signature HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72136.m3u8
+
+#EXTINF:-1 tvg-name="HBO Xtreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg" group-title="Canais | Filmes e Séries",HBO Xtreme HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72140.m3u8
+
+#EXTINF:-1 tvg-name="Megapix HD" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72169.m3u8
+
+#EXTINF:-1 tvg-name="Paramount Channel HD" tvg-logo="https://acstatic.co/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72219.m3u8
+
+#EXTINF:-1 tvg-name="Space HD" tvg-logo="https://acstatic.co/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72319.m3u8
+
+#EXTINF:-1 tvg-name="Star Channel HD" tvg-logo="http://imagecdn.sh:80/images/8968238c6a30fb4370ba3f7d842c0de9.jpg" group-title="Canais | Filmes e Séries",Star Channel HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71938.m3u8
+
+#EXTINF:-1 tvg-name="Studio Universal HD" tvg-logo="https://acstatic.co/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72336.m3u8
+
+#EXTINF:-1 tvg-name="SYFY HD" tvg-logo="https://4.bp.blogspot.com/-KFpvGLvNb3Q/WDtdfKOQfEI/AAAAAAAAFkk/PXqW9GvFFdEvAHzpHiCy_cxWUTcb2-kVwCLcB/s1600/Syfy%2BHD%2Blogo.png" group-title="Canais | Filmes e Séries",SYFY HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191220.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Action HD" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Filmes e Séries",Telecine Action HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72348.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Cult HD" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" group-title="Canais | Filmes e Séries",Telecine Cult HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72352.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Fun HD" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" group-title="Canais | Filmes e Séries",Telecine Fun HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72356.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Pipoca HD" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | Filmes e Séries",Telecine Pipoca HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72360.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Premium HD" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | Filmes e Séries",Telecine Premium HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72364.m3u8
+
+#EXTINF:-1 tvg-name="Telecine Touch HD" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Filmes e Séries",Telecine Touch HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72368.m3u8
+
+#EXTINF:-1 tvg-name="TNT HD" tvg-logo="https://acstatic.co/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72378.m3u8
+
+#EXTINF:-1 tvg-name="TNT Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/634px-Logo_TNT_Novelas.png" group-title="Canais | Filmes e Séries",TNT Novelas HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72344.m3u8
+
+#EXTINF:-1 tvg-name="TNT Series HD" tvg-logo="https://acstatic.co/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72383.m3u8
+
+#EXTINF:-1 tvg-name="TV CINE ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png" group-title="Canais | Filmes e Séries",TV CINE ACTION HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191183.m3u8
+
+#EXTINF:-1 tvg-name="TV CINE EDITION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" group-title="Canais | Filmes e Séries",TV CINE EDITION HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191178.m3u8
+
+#EXTINF:-1 tvg-name="TV CINE EMOTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" group-title="Canais | Filmes e Séries",TV CINE EMOTION HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191181.m3u8
+
+#EXTINF:-1 tvg-name="TV CINE TOP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" group-title="Canais | Filmes e Séries",TV CINE TOP HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191175.m3u8
+
+#EXTINF:-1 tvg-name="TVCINE + HD" tvg-logo="https://www.tvcine.pt/TVCine-PLUS-logo.png" group-title="Canais | Filmes e Séries",TVCINE + HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191172.m3u8
+
+#EXTINF:-1 tvg-name="Universal TV HD" tvg-logo="https://acstatic.co/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72421.m3u8
+
+#EXTINF:-1 tvg-name="USA Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/USA_Network_logo_%282006%29.svg" group-title="Canais | Filmes e Séries",USA Network HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72340.m3u8
+
+#EXTINF:-1 tvg-name="Warner Channel HD" tvg-logo="https://acstatic.co/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72433.m3u8
+
+####################################     Canais Infantis            ####################################
+#EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="https://acstatic.co/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71831.m3u8
+
+#EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://acstatic.co/logos/canais/boomerang.png" group-title="Canais | Infantis",Cartoonito HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71814.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Kids HD" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71873.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel HD" tvg-logo="https://acstatic.co/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71893.m3u8
+
+#EXTINF:-1 tvg-name="Gloob HD" tvg-logo="https://acstatic.co/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72100.m3u8
+
+#EXTINF:-1 tvg-name="Gloobinho HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Gloobinho_logo.svg" group-title="Canais | Infantis",Gloobinho HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90629.m3u8
+
+#EXTINF:-1 tvg-name="Nick Jr. HD" tvg-logo="https://acstatic.co/logos/canais/nickjr.png" group-title="Canais | Infantis",Nick Jr. HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72203.m3u8
+
+#EXTINF:-1 tvg-name="Nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_2009-now_logo.png" group-title="Canais | Infantis",Nickelodeon HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72207.m3u8
+
+#EXTINF:-1 tvg-name="TV Ra-Tim-Bum HD" tvg-logo="https://acstatic.co/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV Ra-Tim-Bum HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72414.m3u8
+
+#EXTINF:-1 tvg-name="Zoomoo" tvg-logo="http://imagecdn.sh:80/images/5dab2df694584172699383cdb1100c18.jpg" group-title="Canais | Infantis",Zoomoo HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/104935.m3u8
+
+####################################     Canais Música              ####################################
+#EXTINF:-1 tvg-name="Canção Nova" tvg-logo="https://i.imgur.com/1EGWuDA.png" group-title="Canais | Música",Canção Nova
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191336.m3u8
+
+#EXTINF:-1 tvg-name="CLUBBING TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" group-title="Canais | Música",CLUBBING TV
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191337.m3u8
+
+#EXTINF:-1 tvg-name="KURIAKOS TV FHD" tvg-logo="https://i.imgur.com/NSDWjtZ.png" group-title="Canais | Música",KURIAKOS TV FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191342.m3u8
+
+#EXTINF:-1 tvg-name="M6 MUSIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="Canais | Música",M6 MUSIC HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191340.m3u8
+
+#EXTINF:-1 tvg-name="MTV LIVE HD" tvg-logo="https://wpcdn.pl/ptv-stage/logo/bright/128/439.png" group-title="Canais | Música",MTV LIVE HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191332.m3u8
+
+#EXTINF:-1 tvg-name="MTV PORTUGAL HD" tvg-logo="https://i.imgur.com/wNvqkOM.png" group-title="Canais | Música",MTV PORTUGAL HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191331.m3u8
+
+####################################     Canais Notícias            ####################################
+#EXTINF:-1 tvg-name="Band News HD" tvg-logo="http://imagecdn.sh:80/images/abb329697106ebb6f051ab5ab2d39dfd.png" group-title="Canais | Notícias",Band News HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71791.m3u8
+
+#EXTINF:-1 tvg-name="CNN Brasil HD" tvg-logo="https://acstatic.co/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71839.m3u8
+
+#EXTINF:-1 tvg-name="Eurochannel HD" tvg-logo="http://imagecdn.sh:80/images/e319732e23a51cafb209d07c7a26c615.jpg" group-title="Canais | Notícias",Eurochannel HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/104911.m3u8
+
+#EXTINF:-1 tvg-name="France 24 HD" tvg-logo="" group-title="Canais | Notícias",France 24 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/104907.m3u8
+
+#EXTINF:-1 tvg-name="Globo News HD" tvg-logo="https://acstatic.co/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71999.m3u8
+
+#EXTINF:-1 tvg-name="Jovem Pan News HD" tvg-logo="http://imagecdn.sh:80/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="Canais | Notícias",Jovem Pan News HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/134024.m3u8
+
+#EXTINF:-1 tvg-name="Record News HD" tvg-logo="http://imagecdn.sh:80/images/2449a2b4976db3d6d8efdbd249a40971.png" group-title="Canais | Notícias",Record News HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72272.m3u8
+
+#EXTINF:-1 tvg-name="I24 NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/1200px-LOGO_i24NEWS.png" group-title="Canais | Notícias",I24 NEWS
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191166.m3u8
+
+####################################     Canais Religiosos          ####################################
+#EXTINF:-1 tvg-name="Ideal TV HD" tvg-logo="http://imagecdn.sh:80/images/6791e20f29c12970b66e3b2fc0a43980.jpg" group-title="Canais | Religiosos",Ideal TV HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/178527.m3u8
+
+#EXTINF:-1 tvg-name="Pai Eterno HD" tvg-logo="http://imagecdn.sh:80/images/94e056ce2525d0336871da9d31d41e85.png" group-title="Canais | Religiosos",Pai Eterno HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72214.m3u8
+
+#EXTINF:-1 tvg-name="Rede Gospel HD" tvg-logo="http://imagecdn.sh:80/images/bb8c38ad035e925a1f2c8fb19c785370.jpg" group-title="Canais | Religiosos",Rede Gospel HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/104930.m3u8
+
+#EXTINF:-1 tvg-name="Rede Vida HD" tvg-logo="https://acstatic.co/logos/canais/redevida.png" group-title="Canais | Religiosos",Rede Vida HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72295.m3u8
+
+#EXTINF:-1 tvg-name="TV Aparecida HD" tvg-logo="https://acstatic.co/logos/canais/aparecida.png" group-title="Canais | Religiosos",TV Aparecida HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72396.m3u8
+
+#EXTINF:-1 tvg-name="TV Cancao Nova SD" tvg-logo="http://imagecdn.sh:80/images/5559747da880013a0b1d0380839e9f90.png" group-title="Canais | Religiosos",TV Cancao Nova SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72404.m3u8
+
+#EXTINF:-1 tvg-name="TV Novo Tempo HD" tvg-logo="https://acstatic.co/logos/canais/novotempo.png" group-title="Canais | Religiosos",TV Novo Tempo HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72410.m3u8
+
+####################################     Canais Variedades          ####################################
+#EXTINF:-1 tvg-name="A and E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/A%26E-Network-Logo.svg" group-title="Canais | Variedades",A&E HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71762.m3u8
+
+#EXTINF:-1 tvg-name="BIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_of_Bis.svg" group-title="Canais | Variedades",BIS HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71808.m3u8
+
+#EXTINF:-1 tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png" group-title="Canais | Variedades",Cinecanal HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71941.m3u8
+
+#EXTINF:-1 tvg-name="Comedy Central HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Canais | Variedades",Comedy Central HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71849.m3u8
+
+#EXTINF:-1 tvg-name="Discovery H&H HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Discovery_h%26h.png" group-title="Canais | Variedades",Discovery H&H HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71869.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Turbo HD" tvg-logo="http://imagecdn.sh:80/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",Discovery Turbo HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71885.m3u8
+
+#EXTINF:-1 tvg-name="Dog TV" tvg-logo="http://imagecdn.sh:80/images/2ecd0b43c0ba5f0fac0f9fbb98bb79cd.jpg" group-title="Canais | Variedades",Dog TV HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/76923.m3u8
+
+#EXTINF:-1 tvg-name="E! HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg" group-title="Canais | Variedades",E! HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71902.m3u8
+
+#EXTINF:-1 tvg-name="FashionTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Fashion_TV_logo.svg" group-title="Canais | Variedades",FashionTV HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71926.m3u8
+
+#EXTINF:-1 tvg-name="Fish TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Fish_TV_logo_2022.svg" group-title="Canais | Variedades",Fish TV HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71930.m3u8
+
+#EXTINF:-1 tvg-name="Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Canais | Variedades",Food Network HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71934.m3u8
+
+#EXTINF:-1 tvg-name="GNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/GNT_logo-roxo.svg" group-title="Canais | Variedades",GNT HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72104.m3u8
+
+#EXTINF:-1 tvg-name="Lifetime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Canais | Variedades",Lifetime HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72156.m3u8
+
+#EXTINF:-1 tvg-name="Markket News" tvg-logo="https://seeklogo.com/images/M/mk-by-honeywell-logo-076EB31D97-seeklogo.com.png" group-title="Canais | Variedades",Markket HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/164029.m3u8
+
+#EXTINF:-1 tvg-name="MEGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Mega_TV_logo_2016.svg" group-title="Canais | Variedades",Mega TV HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/104925.m3u8
+
+#EXTINF:-1 tvg-name="Modo Viagem" tvg-logo="http://imagecdn.sh:80/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="Canais | Variedades",Modo Viagem HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72164.m3u8
+
+#EXTINF:-1 tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_2021_%28brand_version%29.svg" group-title="Canais | Variedades",MTV HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72173.m3u8
+
+#EXTINF:-1 tvg-name="MTV Live HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="Canais | Variedades",MTV Live HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72176.m3u8
+
+#EXTINF:-1 tvg-name="MTVs 00 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Canais | Variedades",MTVs 00 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72425.m3u8
+
+#EXTINF:-1 tvg-name="Multishow HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg" group-title="Canais | Variedades",Multishow HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72182.m3u8
+
+#EXTINF:-1 tvg-name="Music Box Brazil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MusicBoxBrazil.png" group-title="Canais | Variedades",Music Box Brazil HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72186.m3u8
+
+#EXTINF:-1 tvg-name="OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="Canais | Variedades",OFF HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72211.m3u8
+
+#EXTINF:-1 tvg-name="Prime Box Brazil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | Variedades",Prime Box Brazil HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72269.m3u8
+
+#EXTINF:-1 tvg-name="Sabor and Arte" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png" group-title="Canais | Variedades",Sabor & Arte HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/112016.m3u8
+
+#EXTINF:-1 tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/TLC_Logo.svg" group-title="Canais | Variedades",TLC HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72373.m3u8
+
+#EXTINF:-1 tvg-name="Trace Brazuca" tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Canais | Variedades",Trace Brazuca HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72388.m3u8
+
+#EXTINF:-1 tvg-name="Travel Box Brazil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TravelBoxBrazilLogo.png" group-title="Canais | Variedades",Travel Box Brazil HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72392.m3u8
+
+#EXTINF:-1 tvg-name="Viva HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20241224170303" group-title="Canais | Variedades",Viva HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72429.m3u8
+
+#EXTINF:-1 tvg-name="WooHoo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Woohoo_logo.svg" group-title="Canais | Variedades",WooHoo HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72437.m3u8
