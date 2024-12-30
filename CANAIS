@@ -13,7 +13,7 @@
 ########################################################################################################
 
 ####################################     EPG                        ####################################
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_BR.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 ####################################     Canais 4K                  ####################################
 #EXTINF:-1 tvg-name="A&E 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="Canais | 4K",A&E 4K FHDR
