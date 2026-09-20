@@ -1,11 +1,3 @@
-####################################           EPG                ####################################
-
-#EXTM3U url-tvg="https://www.open-epg.com/files/brazil1.xml.gz"
-#EXTM3U url-tvg="https://www.open-epg.com/files/brazil2.xml.gz"
-#EXTM3U url-tvg="https://www.open-epg.com/files/brazil3.xml.gz"
-#EXTM3U url-tvg="https://www.open-epg.com/files/brazil4.xml.gz"
-#EXTM3U url-tvg="https://www.open-epg.com/files/brazil5.xml.gz"
-
 #################################### Canais | Abertos ####################################
 
 #EXTINF:-1 tvg-id="Amazon Sat.br" tvg-name="Brazil 1" tvg-logo="https://od.lk/s/NzdfNTg5NDMxNDdf/AMAZONSAT.png" group-title="Canais | Abertos",Amazon Sat HD
