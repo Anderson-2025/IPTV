@@ -1,320 +1,215 @@
+#################################### Canais | Filmes e Séries ####################################
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/UUnpq0JFFq2bThcSjE8twZ80UpFeWpMv5hqhp7C4.png" group-title="Canais | Filmes e Séries",A&E
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71762.ts
 
-#EXTM3U
-#EXTINF:11,AMC HD
-http://45.185.11.126:8000/play/a06s/index.m3u8
-#EXTINF:0,AXN HD
-http://45.185.11.126:8000/play/a0ao/index.m3u8
-#EXTINF:0,Adult Swim HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a06m/index.m3u8
-#EXTINF:0,Animal Planet HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a09k/index.m3u8
-#EXTINF:0,BIS HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a07w/index.m3u8
-#EXTINF:0,BM&C HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a06i/index.m3u8
-#EXTINF:0,Band News HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a076/index.m3u8
-#EXTINF:0,Band Sports HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a05o/index.m3u8
-#EXTINF:0,CNN Brasil Money HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0a6/index.m3u8
-#EXTINF:0,CNN International HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0ap/index.m3u8
-#EXTINF:0,Canal Brasil HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a06x/index.m3u8
-#EXTINF:0,Canal Sony HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0an/index.m3u8
-#EXTINF:0,Canal UOL HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0a4/index.m3u8
-#EXTINF:0,Cartoon Network HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a087/index.m3u8
-#EXTINF:0,Cartoonito HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0ae/index.m3u8
-#EXTINF:0,Cinemax HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a081/index.m3u8
-#EXTINF:0,Claro TV+ 4K
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a06f/index.m3u8
-#EXTINF:0,Combate HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a073/index.m3u8
-#EXTINF:0,DUMDUM HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a078/index.m3u8
-#EXTINF:0,Disc. Home & Health HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a07y/index.m3u8
-#EXTINF:0,Discovery Channel HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0ac/index.m3u8
-#EXTINF:0,Discovery Kids HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0ad/index.m3u8
-#EXTINF:0,Discovery Science HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a077/index.m3u8
-#EXTINF:0,Discovery Theater HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a085/index.m3u8
-#EXTINF:0,Discovery Turbo HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a07z/index.m3u8
-#EXTINF:0,Discovery World HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a086/index.m3u8
-#EXTINF:0,ESPN 4 HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a05m/index.m3u8
-#EXTINF:0,ESPN 5 HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a05n/index.m3u8
-#EXTINF:0,ESPN 6 HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a084/index.m3u8
-#EXTINF:0,Food Network HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a06j/index.m3u8
-#EXTINF:0,GE TV HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08v/index.m3u8
-#EXTINF:0,GNT HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a079/index.m3u8
-#EXTINF:0,GloboNews HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08d/index.m3u8
-#EXTINF:0,Globoplay Novelas HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a06w/index.m3u8
-#EXTINF:0,Gloob HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a07v/index.m3u8
-#EXTINF:0,Gloobinho HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a071/index.m3u8
-#EXTINF:0,HBO Family HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08q/index.m3u8
-#EXTINF:0,HBO HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08n/index.m3u8
-#EXTINF:0,HBO MUNDI HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a082/index.m3u8
-#EXTINF:0,HBO POP HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08s/index.m3u8
-#EXTINF:0,HBO Signature HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08r/index.m3u8
-#EXTINF:0,HBO XTREME HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a083/index.m3u8
-#EXTINF:0,HBO+ HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08p/index.m3u8
-#EXTINF:0,HBO2 HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08o/index.m3u8
-#EXTINF:0,HGTV HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a074/index.m3u8
-#EXTINF:0,History HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0al/index.m3u8
-#EXTINF:0,ID HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a089/index.m3u8
-#EXTINF:0,JP News HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0a1/index.m3u8
-#EXTINF:0,Lifetime HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a06l/index.m3u8
-#EXTINF:0,Megapix HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a057/index.m3u8
-#EXTINF:0,Modo Viagem HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a07u/index.m3u8
-#EXTINF:0,Multishow HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a07a/index.m3u8
-#EXTINF:0,OFF HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a07t/index.m3u8
-#EXTINF:0,Paramount+ 4
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0aq/index.m3u8
-#EXTINF:0,Playboy TV HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a09n/index.m3u8
-#EXTINF:0,Premiere 2 HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a06h/index.m3u8
-#EXTINF:0,Premiere 3 HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0av/index.m3u8
-#EXTINF:0,Premiere 4 HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a07b/index.m3u8
-#EXTINF:0,Premiere 5 HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a07c/index.m3u8
-#EXTINF:0,Premiere 6 HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a05j/index.m3u8
-#EXTINF:0,Premiere 7 HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a05k/index.m3u8
-#EXTINF:0,Premiere 8 HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a05l/index.m3u8
-#EXTINF:0,Premiere Clubes HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a06g/index.m3u8
-#EXTINF:0,Record News HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0a2/index.m3u8
-#EXTINF:0,SBT News HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0a7/index.m3u8
-#EXTINF:0,Space HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08b/index.m3u8
-#EXTINF:0,Studio Universal HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a06o/index.m3u8
-#EXTINF:0,TIMES | EXCLUSIVO CNBC
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0a5/index.m3u8
-#EXTINF:0,TLC HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0aa/index.m3u8
-#EXTINF:0,TNT Novelas HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a088/index.m3u8
-#EXTINF:0,TNT Sports HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0bi/index.m3u8
-#EXTINF:0,TNT SØries HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08a/index.m3u8
-#EXTINF:0,TV RÆ Tim Bum HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a080/index.m3u8
-#EXTINF:0,Telecine Action HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a058/index.m3u8
-#EXTINF:0,Telecine Cult HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a05a/index.m3u8
-#EXTINF:0,Telecine Fun HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a059/index.m3u8
-#EXTINF:0,Telecine Pipoca HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08g/index.m3u8
-#EXTINF:0,Telecine Premium HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08e/index.m3u8
-#EXTINF:0,Telecine Touch HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08f/index.m3u8
-#EXTINF:0,Trace Brasil HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08l/index.m3u8
-#EXTINF:0,Travel Food & Drinks HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a07x/index.m3u8
-#EXTINF:0,USA HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a06k/index.m3u8
-#EXTINF:0,Universal Premiere HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08m/index.m3u8
-#EXTINF:0,Universal Reality HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08c/index.m3u8
-#EXTINF:0,Universal TV HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0af/index.m3u8
-#EXTINF:0,Warner Channel HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0am/index.m3u8
-#EXTINF:0,Woohoo HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a075/index.m3u8
-#EXTINF:0,sportv HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a05g/index.m3u8
-#EXTINF:0,sportv2 HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a05f/index.m3u8
-#EXTINF:0,sportv3 HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a06v/index.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/FUZ4eoxf47ICVJrmvQXNTvnwppsdBHIjLMSTNtnm.png" group-title="Canais | Filmes e Séries",AMC
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71768.ts
 
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/Fm8CggJQuxT4dOWWNybv1HhhhK39BzvrCM3HICkp.png" group-title="Canais | Filmes e Séries",AXN
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71781.ts
 
-#EXTINF:-1,US: ACC Network
-http://206.212.244.63/2486/index.m3u8
-#EXTINF:-1,US: Big Ten Network
-http://206.212.244.63/2489/index.m3u8
-#EXTINF:-1,US: SEC Network
-http://206.212.244.63/2511/index.m3u8
-#EXTINF:-1,USA | ACCUWEATHER
-http://206.212.244.63/3/index.m3u8
-#EXTINF:-1,USA | ACCUWEATHER
-http://206.212.244.63/674/index.m3u8
-#EXTINF:-1,USA | ESPN
-http://206.212.244.63/59/index.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/VgNqPoxMpsKzS0txTotPMvs0vAPiZRmp3uBHQk75.png" group-title="Canais | Filmes e Séries",Cinemax
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71833.ts
 
-#EXTINF:-1,PT: EUROSPORT 1
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99481
-#EXTINF:-1,PT: EUROSPORT 2
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99482
-#EXTINF:-1,PT: SPORT TV +
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99483
-#EXTINF:-1,PT: SPORT TV 1
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99484
-#EXTINF:-1,PT: SPORT TV 2
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99485
-#EXTINF:-1,PT: SPORT TV 3
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99486
-#EXTINF:-1,PT: SPORT TV 4
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99487
-#EXTINF:-1,PT: SPORT TV 5
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99488
-#EXTINF:-1,PT: SPORT TV 6
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99489
-#EXTINF:-1,PT: SPORTING TV
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99490
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png" group-title="Canais | Filmes e Séries",Film & Arts
+http://332nr7hbfu.xyz:80/999913/S3CvUB/104914.ts
 
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/6DdJgo0uF7lDCk3XmpZUuryTCin6PER9EU1WUXBT.png" group-title="Canais | Filmes e Séries",HBO
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72118.ts
 
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/E1xG85ALepJmAPfGd6WJWS8204ICIMWlahV0dP5O.jpg" group-title="Canais | Filmes e Séries",HBO 2
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72110.ts
 
-#EXTINF:-1,Eurosport 2  HD
-http://89.44.231.117:7000/eurosport2
-#EXTINF:-1,Eurosport HD
-http://89.44.231.117:7000/eurosport
-#EXTINF:-1,Eurosport 2 HD
-http://89.44.231.73:7000/eurosport2
-#EXTINF:-1,Eurosport HD
-http://89.44.231.73:7000/eurosport
-#EXTINF:-1,Eurosport 2 HD
-http://89.44.231.115:7000/eurosport2
-#EXTINF:-1,Eurosport HD
-http://89.44.231.115:7000/eurosport
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/6ZQbpSyzAvnS9SJqZWLDEa7kYsUBMDljKEwx49dL.png" group-title="Canais | Filmes e Séries",HBO Family
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72114.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/UKgwxQEaBQkLAOn3ooCfqGQ78v3FUejB1do2zJU2.png" group-title="Canais | Filmes e Séries",HBO Mundi
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72121.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/WfHCiJwLA4UpaHdcG2GVlAKZ8PB69rrJqqJExN58.png" group-title="Canais | Filmes e Séries",HBO Plus
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72125.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/SwWGDZRsqIiDM7CLJun8hLG0tYchmthkb9TzRvJ6.png" group-title="Canais | Filmes e Séries",HBO Pop
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72129.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/MKaZyqFk6V1bRiCnQPAsCeEvqPMunP88Nojgoj9e.png" group-title="Canais | Filmes e Séries",HBO Signature
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72134.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/qzb3fL6mKciPavmJlq7rLXmUYus0VFx4U1F5hyR0.png" group-title="Canais | Filmes e Séries",HBO Xtreme
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72138.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/mzGbMRKxilCkHr9MprKCOTE85l1bmgyYHDZCsABZ.png" group-title="Canais | Filmes e Séries",Megapix
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72166.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/fkVN5in7FYyvo2shIxmTLTieJLseha7QFAvIo83n.png" group-title="Canais | Filmes e Séries",Prime Box Brazil
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72267.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/zFAnOz5ilT6gLGIenkB1b7pMvBU0JMEqE2UnwYCt.png" group-title="Canais | Filmes e Séries",Sony Movies
+https://bx-tv.com/proxy.php?url=http%3A%2F%2F170.83.16.50%2FSONY_MOVIES%2Ftracks-v1a1%2Fmono.m3u8
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/hbjLKSEvxwlS6gRrFMaC76OHR8OXyiWke9LjAxtl.png" group-title="Canais | Filmes e Séries",Sony
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71824.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/cFPswCkA4ftEGG8imgDfBUiBqn37012tEQE6tyPn.png" group-title="Canais | Filmes e Séries",Space
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72317.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/JPuVtjDbzsspKiEjv86IoFCsIA6O6x4XBhO4qSQC.png" group-title="Canais | Filmes e Séries",Studio Universal
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72334.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/WEf9IEYZNSmEynYxDW9YzSfYMJbYEjFzShcfsQxa.png" group-title="Canais | Filmes e Séries",Syfy
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72338.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/DNY6eszG7Vh4Bw6wgaCXFpwM9QM10YLtlYGLmgYU.png" group-title="Canais | Filmes e Séries",TCM
+https://6ee5870ba06e9d97cfe34398a1625e0f.s23-cloudfront-net.lat/8e8e8b142192ea65/tcm.txt
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/Yoz5IOXmqF6iQhBqfD1SzIJ8s7jGHnMu3I1FgYkO.png" group-title="Canais | Filmes e Séries",TNT
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72375.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/daYbztWnSmemgmYOIB9v2iXxY4QJVbtSgDgF7d3P.png" group-title="Canais | Filmes e Séries",TNT Séries
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72380.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/rNlXHhn1boB2AudY0WRzjSsxlSlWA7vYuGZK5KWL.png" group-title="Canais | Filmes e Séries",Telecine Action
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72346.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/aaEDkMCWERioLFpezoMwpzdEXw0iRt7pnHkxTpe2.png" group-title="Canais | Filmes e Séries",Telecine Cult
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72350.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/MbFadOpZRZAhxzDRFg0xn9bcEKq8O1p3AvV0J90j.png" group-title="Canais | Filmes e Séries",Telecine Fun
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72354.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/YwW09i21zNZBVj3mUVZrleSFGmcnsZm7BjVkbsRK.png" group-title="Canais | Filmes e Séries",Telecine Pipoca
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72358.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/CPYQ9Eb0eilZKmjhFrAktjEmsrlsWZLhbFiUucE3.png" group-title="Canais | Filmes e Séries",Telecine Premium
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72362.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/mv1L2rhhbIePFmJrSWN6VpoldYGM92aADrmIeK1J.png" group-title="Canais | Filmes e Séries",Telecine Touch
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72366.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/A4nDayrATPrnOpQTAIJiCf0tapqe0gCO7HCt3FbE.png" group-title="Canais | Filmes e Séries",Universal TV
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72419.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/9EiWFCVDyIxJk15hmHUyaPZKzKs3aHaKvLY7FvgA.png" group-title="Canais | Filmes e Séries",Warner
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72431.ts
+
+#################################### Canais | Documentários ####################################
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="Canais | Documentários",Animal Planet
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71772.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="Canais | Documentários",Discovery Channel
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71862.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/voE7ShnXsiXnXGjJU1KB9XDF9OQMMeASJTQGxS06.png" group-title="Canais | Documentários",Discovery Science
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71875.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/U7PvZKtT0CUYi65Pg6XO9OJtRF4uicRUYBamKKvC.png" group-title="Canais | Documentários",Discovery Turbo
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71883.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/J70KAPNFRKbNGZtJjSwczFFR3IyGhHTOfTDSzzFC.png" group-title="Canais | Documentários",Discovery World
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71887.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/7rVhnUDohbye1yx2ES2XxuFgAyMAXNOyV50fLvLL.png" group-title="Canais | Documentários",History
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72146.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/RNH7bzJtUCJIwIVbwD7d6TAPclK6GGQb3yzCfEcs.png" group-title="Canais | Documentários",History 2
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72106.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/UJ1Uam4fnZGaoLJkfY8LITk8P3bklKFfXz9JSCmz.png" group-title="Canais | Documentários",Investigação Discovery
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72150.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/DC9kGj2rfafHxhuGsfKCcc4UZf6FwdYW3MMKUMNU.png" group-title="Canais | Documentários",TLC
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72371.ts
+
+#################################### Canais | Esportes ####################################
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/b5rLv8XUFPm6zzun6rmU8hSsqtsx18xueBIqQLaT.png" group-title="Canais | Esportes",Bandsports
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71801.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="Canais | Esportes",Combate
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71842.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/TjGpU2fe85zIbjNbJU92iR7Uup7BnpXtKVvuAALV.png" group-title="Canais | Esportes",ESPN
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71911.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/55279R9yfRKnzN4XUeuZ9hdd0WM61fD8rKAPD4oI.png" group-title="Canais | Esportes",ESPN 2
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71919.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/uuZJDw4RNEtG2KZLe7kNNTyxX6jKpNPJDg3yYYis.png" group-title="Canais | Esportes",ESPN 3
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71907.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/NbCozvwgOONEXubbDHqcoBPkbBTrFcg5gA1aMA3o.png" group-title="Canais | Esportes",ESPN 4
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71957.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/a0k3Ik9vT9eMBoIc5ufsHvbHAdqilE3qmk3rOuvS.png" group-title="Canais | Esportes",ESPN 5
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71952.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/nquFTL8kN4zEvZvNrn0frqh8KjAwN2jw4qb64Hzm.png" group-title="Canais | Esportes",ESPN 6
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71915.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/NvEKyMyWSG5b5DyP3fpuUcVpKNBLRnX9YbLrQp0n.png" group-title="Canais | Esportes",GE TV
+https://d1-ywppjexvlyulasvmgzjdftfjikth0710oq80soveui6lkbi2iza2zf.cdn10embed.xyz/getv/index.m3u8
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/tOSo2u05xSHpkbDSQbBKIacvR6e1BgS9O9PvY664.png" group-title="Canais | Esportes",Nsports
+https://d1-ywppjexvlyulasvmgzjdftfjikth0710oq80soveui6lkbi2iza2zf.cdn10embed.xyz/nsports/index.m3u8
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Canais | Esportes",Off
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72209.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/MEO9lxSgmC5CAwsKhTHPzZCZX9ZFE7lRFqA48ElS.png" group-title="Canais | Esportes",Premiere FC
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72262.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/ZaLxlvm4ijaSAtTwfhJTrvYjmiaFi8SciyiHwh9l.png" group-title="Canais | Esportes",Premiere 2
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72237.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/FDXXZa0cRf9ZkXwruyrL8YJCwiJW8k2wEwMmiEeI.png" group-title="Canais | Esportes",Premiere 3
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72241.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/76M6sIBSXfOQ1gs8huZq9blVihxjUYBk38SH5G1S.png" group-title="Canais | Esportes",Premiere 4
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72245.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/RR5YcaXv67v9AKcLHXOyY9YuRBmNOPgC028PU8vV.png" group-title="Canais | Esportes",Premiere 5
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72249.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/mHFMJM5sGQnKorD0HnFXLO2JcUlHvEObjSZiHknP.png" group-title="Canais | Esportes",Premiere 6
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72253.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/IIxu6NiXwlVLL7Fs1cxm7VFLOeAu4TXu86wefVrG.png" group-title="Canais | Esportes",Premiere 7
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72257.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/QmtqsEb4LiM1aqk2F1To8yx1BdbylJxnVEYCG9tE.png" group-title="Canais | Esportes",SporTV
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72329.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/yjONB92Uq1tbMW4mmsAWIXYAJMM3pKFM8ERFF1mu.png" group-title="Canais | Esportes",SporTV 2
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72321.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/3L9VUswB59VwAOnZ5SkoNTzTXumi7EncWMnYKjvS.png" group-title="Canais | Esportes",SporTV 3
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72325.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/LzYk6E4aKcCOD2ptoJUadbTUClGL6oHitZ8AJSEX.png" group-title="Canais | Esportes",SportyNet
+http://332nr7hbfu.xyz:80/999913/S3CvUB/184569.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/agJ0Cs58Y5Is8i6fzfnbw6xhBjEjsmXGBtO64gx8.png" group-title="Canais | Esportes",Xsports
+http://332nr7hbfu.xyz:80/999913/S3CvUB/340449.ts
+
+#################################### Canais | Infantil ####################################
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/x7mB9zIiX2qT0SWwDFrcy8pMKZqfuiwXxUMD44Q6.png" group-title="Canais | Infantil",Cartoon Network
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71828.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo=""http://332nr7hbfu.xyz/static/logos/canais/boomerang.png" group-title="Canais | Infantil",Boomerang
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/Cbk8pFoFK5dsdBzVgF1nY0wbNEJ1iyNk5u43KvaS.png" group-title="Canais | Infantil",Discovery Kids
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71871.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/ylKX0PaiVCulcY5Bduc6LSgWdFFL1uobbnsvNhz8.png" group-title="Canais | Infantil",Gloob
+http://332nr7hbfu.xyz:80/999913/S3CvUB/131153.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/5VuVTewKuYSntAm4HPYwzHmxTLXjTXE3uCH3o4qi.png" group-title="Canais | Infantil",Gloobinho
+http://332nr7hbfu.xyz:80/999913/S3CvUB/90631.ts
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png" group-title="Canais | Infantil",Tooncast
+https://d2-ywppjexvlyulasvmgzjdftfjikth0710oq80soveui6lkbi2iza2zf.cdn10embed.xyz/tooncast/index.m3u8
+
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/UajrKyt9c6WkSqBkeWBpaojsrp1qV8wwgeuXslDd.png" group-title="Canais | Infantil",TV Rá Tim Bum
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72412.ts
