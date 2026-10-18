@@ -1,215 +1,97 @@
-#################################### Canais | Filmes e Séries ####################################
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/UUnpq0JFFq2bThcSjE8twZ80UpFeWpMv5hqhp7C4.png" group-title="Canais | Filmes e Séries",A&E
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71762.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/FUZ4eoxf47ICVJrmvQXNTvnwppsdBHIjLMSTNtnm.png" group-title="Canais | Filmes e Séries",AMC
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71768.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/Fm8CggJQuxT4dOWWNybv1HhhhK39BzvrCM3HICkp.png" group-title="Canais | Filmes e Séries",AXN
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71781.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/VgNqPoxMpsKzS0txTotPMvs0vAPiZRmp3uBHQk75.png" group-title="Canais | Filmes e Séries",Cinemax
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71833.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/fiUIa3E6ZmxBMqxMjafkkZKkqzoZX83NOgeEZ9BR.png" group-title="Canais | Filmes e Séries",Film & Arts
-http://332nr7hbfu.xyz:80/999913/S3CvUB/104914.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/6DdJgo0uF7lDCk3XmpZUuryTCin6PER9EU1WUXBT.png" group-title="Canais | Filmes e Séries",HBO
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72118.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/E1xG85ALepJmAPfGd6WJWS8204ICIMWlahV0dP5O.jpg" group-title="Canais | Filmes e Séries",HBO 2
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72110.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/6ZQbpSyzAvnS9SJqZWLDEa7kYsUBMDljKEwx49dL.png" group-title="Canais | Filmes e Séries",HBO Family
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72114.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/UKgwxQEaBQkLAOn3ooCfqGQ78v3FUejB1do2zJU2.png" group-title="Canais | Filmes e Séries",HBO Mundi
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72121.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/WfHCiJwLA4UpaHdcG2GVlAKZ8PB69rrJqqJExN58.png" group-title="Canais | Filmes e Séries",HBO Plus
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72125.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/SwWGDZRsqIiDM7CLJun8hLG0tYchmthkb9TzRvJ6.png" group-title="Canais | Filmes e Séries",HBO Pop
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72129.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/MKaZyqFk6V1bRiCnQPAsCeEvqPMunP88Nojgoj9e.png" group-title="Canais | Filmes e Séries",HBO Signature
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72134.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/qzb3fL6mKciPavmJlq7rLXmUYus0VFx4U1F5hyR0.png" group-title="Canais | Filmes e Séries",HBO Xtreme
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72138.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/mzGbMRKxilCkHr9MprKCOTE85l1bmgyYHDZCsABZ.png" group-title="Canais | Filmes e Séries",Megapix
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72166.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/fkVN5in7FYyvo2shIxmTLTieJLseha7QFAvIo83n.png" group-title="Canais | Filmes e Séries",Prime Box Brazil
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72267.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/zFAnOz5ilT6gLGIenkB1b7pMvBU0JMEqE2UnwYCt.png" group-title="Canais | Filmes e Séries",Sony Movies
-https://bx-tv.com/proxy.php?url=http%3A%2F%2F170.83.16.50%2FSONY_MOVIES%2Ftracks-v1a1%2Fmono.m3u8
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/hbjLKSEvxwlS6gRrFMaC76OHR8OXyiWke9LjAxtl.png" group-title="Canais | Filmes e Séries",Sony
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71824.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/cFPswCkA4ftEGG8imgDfBUiBqn37012tEQE6tyPn.png" group-title="Canais | Filmes e Séries",Space
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72317.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/JPuVtjDbzsspKiEjv86IoFCsIA6O6x4XBhO4qSQC.png" group-title="Canais | Filmes e Séries",Studio Universal
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72334.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/WEf9IEYZNSmEynYxDW9YzSfYMJbYEjFzShcfsQxa.png" group-title="Canais | Filmes e Séries",Syfy
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72338.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/DNY6eszG7Vh4Bw6wgaCXFpwM9QM10YLtlYGLmgYU.png" group-title="Canais | Filmes e Séries",TCM
-https://6ee5870ba06e9d97cfe34398a1625e0f.s23-cloudfront-net.lat/8e8e8b142192ea65/tcm.txt
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/Yoz5IOXmqF6iQhBqfD1SzIJ8s7jGHnMu3I1FgYkO.png" group-title="Canais | Filmes e Séries",TNT
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72375.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/daYbztWnSmemgmYOIB9v2iXxY4QJVbtSgDgF7d3P.png" group-title="Canais | Filmes e Séries",TNT Séries
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72380.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/rNlXHhn1boB2AudY0WRzjSsxlSlWA7vYuGZK5KWL.png" group-title="Canais | Filmes e Séries",Telecine Action
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72346.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/aaEDkMCWERioLFpezoMwpzdEXw0iRt7pnHkxTpe2.png" group-title="Canais | Filmes e Séries",Telecine Cult
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72350.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/MbFadOpZRZAhxzDRFg0xn9bcEKq8O1p3AvV0J90j.png" group-title="Canais | Filmes e Séries",Telecine Fun
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72354.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/YwW09i21zNZBVj3mUVZrleSFGmcnsZm7BjVkbsRK.png" group-title="Canais | Filmes e Séries",Telecine Pipoca
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72358.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/CPYQ9Eb0eilZKmjhFrAktjEmsrlsWZLhbFiUucE3.png" group-title="Canais | Filmes e Séries",Telecine Premium
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72362.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/mv1L2rhhbIePFmJrSWN6VpoldYGM92aADrmIeK1J.png" group-title="Canais | Filmes e Séries",Telecine Touch
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72366.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/A4nDayrATPrnOpQTAIJiCf0tapqe0gCO7HCt3FbE.png" group-title="Canais | Filmes e Séries",Universal TV
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72419.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/9EiWFCVDyIxJk15hmHUyaPZKzKs3aHaKvLY7FvgA.png" group-title="Canais | Filmes e Séries",Warner
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72431.ts
-
-#################################### Canais | Documentários ####################################
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="Canais | Documentários",Animal Planet
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71772.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="Canais | Documentários",Discovery Channel
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71862.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/voE7ShnXsiXnXGjJU1KB9XDF9OQMMeASJTQGxS06.png" group-title="Canais | Documentários",Discovery Science
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71875.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/U7PvZKtT0CUYi65Pg6XO9OJtRF4uicRUYBamKKvC.png" group-title="Canais | Documentários",Discovery Turbo
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71883.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/J70KAPNFRKbNGZtJjSwczFFR3IyGhHTOfTDSzzFC.png" group-title="Canais | Documentários",Discovery World
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71887.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/7rVhnUDohbye1yx2ES2XxuFgAyMAXNOyV50fLvLL.png" group-title="Canais | Documentários",History
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72146.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/RNH7bzJtUCJIwIVbwD7d6TAPclK6GGQb3yzCfEcs.png" group-title="Canais | Documentários",History 2
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72106.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/UJ1Uam4fnZGaoLJkfY8LITk8P3bklKFfXz9JSCmz.png" group-title="Canais | Documentários",Investigação Discovery
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72150.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/DC9kGj2rfafHxhuGsfKCcc4UZf6FwdYW3MMKUMNU.png" group-title="Canais | Documentários",TLC
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72371.ts
-
-#################################### Canais | Esportes ####################################
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/b5rLv8XUFPm6zzun6rmU8hSsqtsx18xueBIqQLaT.png" group-title="Canais | Esportes",Bandsports
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71801.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/LCW2HM2AF9Uahx8poBHbRKEyHKjg9hxu885aLTNx.png" group-title="Canais | Esportes",Combate
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71842.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/TjGpU2fe85zIbjNbJU92iR7Uup7BnpXtKVvuAALV.png" group-title="Canais | Esportes",ESPN
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71911.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/55279R9yfRKnzN4XUeuZ9hdd0WM61fD8rKAPD4oI.png" group-title="Canais | Esportes",ESPN 2
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71919.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/uuZJDw4RNEtG2KZLe7kNNTyxX6jKpNPJDg3yYYis.png" group-title="Canais | Esportes",ESPN 3
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71907.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/NbCozvwgOONEXubbDHqcoBPkbBTrFcg5gA1aMA3o.png" group-title="Canais | Esportes",ESPN 4
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71957.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/a0k3Ik9vT9eMBoIc5ufsHvbHAdqilE3qmk3rOuvS.png" group-title="Canais | Esportes",ESPN 5
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71952.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/nquFTL8kN4zEvZvNrn0frqh8KjAwN2jw4qb64Hzm.png" group-title="Canais | Esportes",ESPN 6
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71915.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/NvEKyMyWSG5b5DyP3fpuUcVpKNBLRnX9YbLrQp0n.png" group-title="Canais | Esportes",GE TV
-https://d1-ywppjexvlyulasvmgzjdftfjikth0710oq80soveui6lkbi2iza2zf.cdn10embed.xyz/getv/index.m3u8
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/tOSo2u05xSHpkbDSQbBKIacvR6e1BgS9O9PvY664.png" group-title="Canais | Esportes",Nsports
-https://d1-ywppjexvlyulasvmgzjdftfjikth0710oq80soveui6lkbi2iza2zf.cdn10embed.xyz/nsports/index.m3u8
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/dVZbqIzcwz04Kd1lUc8Npm9MPPM2a7xa5RCS79fq.png" group-title="Canais | Esportes",Off
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72209.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/MEO9lxSgmC5CAwsKhTHPzZCZX9ZFE7lRFqA48ElS.png" group-title="Canais | Esportes",Premiere FC
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72262.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/ZaLxlvm4ijaSAtTwfhJTrvYjmiaFi8SciyiHwh9l.png" group-title="Canais | Esportes",Premiere 2
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72237.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/FDXXZa0cRf9ZkXwruyrL8YJCwiJW8k2wEwMmiEeI.png" group-title="Canais | Esportes",Premiere 3
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72241.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/76M6sIBSXfOQ1gs8huZq9blVihxjUYBk38SH5G1S.png" group-title="Canais | Esportes",Premiere 4
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72245.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/RR5YcaXv67v9AKcLHXOyY9YuRBmNOPgC028PU8vV.png" group-title="Canais | Esportes",Premiere 5
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72249.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/mHFMJM5sGQnKorD0HnFXLO2JcUlHvEObjSZiHknP.png" group-title="Canais | Esportes",Premiere 6
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72253.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/IIxu6NiXwlVLL7Fs1cxm7VFLOeAu4TXu86wefVrG.png" group-title="Canais | Esportes",Premiere 7
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72257.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/QmtqsEb4LiM1aqk2F1To8yx1BdbylJxnVEYCG9tE.png" group-title="Canais | Esportes",SporTV
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72329.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/yjONB92Uq1tbMW4mmsAWIXYAJMM3pKFM8ERFF1mu.png" group-title="Canais | Esportes",SporTV 2
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72321.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/3L9VUswB59VwAOnZ5SkoNTzTXumi7EncWMnYKjvS.png" group-title="Canais | Esportes",SporTV 3
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72325.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/LzYk6E4aKcCOD2ptoJUadbTUClGL6oHitZ8AJSEX.png" group-title="Canais | Esportes",SportyNet
-http://332nr7hbfu.xyz:80/999913/S3CvUB/184569.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/agJ0Cs58Y5Is8i6fzfnbw6xhBjEjsmXGBtO64gx8.png" group-title="Canais | Esportes",Xsports
-http://332nr7hbfu.xyz:80/999913/S3CvUB/340449.ts
-
-#################################### Canais | Infantil ####################################
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/x7mB9zIiX2qT0SWwDFrcy8pMKZqfuiwXxUMD44Q6.png" group-title="Canais | Infantil",Cartoon Network
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71828.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo=""http://332nr7hbfu.xyz/static/logos/canais/boomerang.png" group-title="Canais | Infantil",Boomerang
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/Cbk8pFoFK5dsdBzVgF1nY0wbNEJ1iyNk5u43KvaS.png" group-title="Canais | Infantil",Discovery Kids
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71871.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/ylKX0PaiVCulcY5Bduc6LSgWdFFL1uobbnsvNhz8.png" group-title="Canais | Infantil",Gloob
-http://332nr7hbfu.xyz:80/999913/S3CvUB/131153.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/5VuVTewKuYSntAm4HPYwzHmxTLXjTXE3uCH3o4qi.png" group-title="Canais | Infantil",Gloobinho
-http://332nr7hbfu.xyz:80/999913/S3CvUB/90631.ts
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/R51ScLaG4Ou2vCXyuBOQoeDUWD5l83pNshs3UVux.png" group-title="Canais | Infantil",Tooncast
-https://d2-ywppjexvlyulasvmgzjdftfjikth0710oq80soveui6lkbi2iza2zf.cdn10embed.xyz/tooncast/index.m3u8
-
-#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://static.guiadetv.com/channel/UajrKyt9c6WkSqBkeWBpaojsrp1qV8wwgeuXslDd.png" group-title="Canais | Infantil",TV Rá Tim Bum
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72412.ts
+#################################### Canais | Pluto TV ####################################
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Aliens
+https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Animais
+https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Anime
+https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Anime Ação
+https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Bang Bang
+https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Canal UOL
+https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Cine Clássicos
+https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Cine Comédia
+https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Cine Comédia Romântica
+https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Cine Crime
+https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Cine Drama
+https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Cine Família
+https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Cine Inspiração
+https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Cine Romance
+https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Cine Sucessos
+https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Cozinha
+https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Desenhos Clássicos
+https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Esportes
+https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Ficção Científica
+https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Filmes Ação
+https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Filmes Aventura
+https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Filmes de Luta
+https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Filmes Nacionais
+https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV História
+https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Investigação
+https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Junior
+https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV KFOOD
+https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Kids
+https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Kids Club
+https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Mistérios
+https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Natureza
+https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Negócio Fechado
+https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Netmovies
+https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Novelas
+https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Polícial
+https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Record News
+https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Retro
+https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Séries Ação
+https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Séries Comédia
+https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Séries Criminais
+https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Séries Drama
+https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Séries Novelescas
+https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Séries Sci-Fi
+https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Shows por Stingray
+https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Terror Trash
+https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Turbo
+https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Viagens
+https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
+#EXTINF:-1 tvg-id="----" tvg-name="----" tvg-logo="https://logospng.org/wp-content/uploads/pluto-tv.png" group-title="Canais | Pluto TV",Pluto TV Vida Real
+https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
